@@ -1,0 +1,107 @@
+{
+  "1941-04-06": {
+    "headline": "Operation Marita",
+    "summary": "Germany invades Yugoslavia and Greece at once, after a Belgrade coup overturned the government that had joined the Axis two days earlier. Belgrade is bombed for three days without any declaration of war.",
+    "events": [
+      {
+        "name": "Belgrade",
+        "lng": 20.46,
+        "lat": 44.79,
+        "kind": "bombing",
+        "text": "Perhaps 17,000 people are killed in an undeclared attack on an open city."
+      },
+      {
+        "name": "Thessaloniki",
+        "lng": 22.94,
+        "lat": 40.64,
+        "kind": "invasion",
+        "text": "German troops cross from Bulgaria into Greek Macedonia."
+      }
+    ],
+    "press": "Belgrade"
+  },
+  "1941-04-10": {
+    "headline": "Yugoslavia comes apart",
+    "summary": "Zagreb falls without a fight and a puppet Croatian state is declared the same day. The Yugoslav army, mobilising into an invasion and divided against itself, dissolves rather than fights.",
+    "events": [
+      {
+        "name": "Zagreb",
+        "lng": 15.98,
+        "lat": 45.81,
+        "kind": "capture",
+        "text": "Taken without resistance; the Independent State of Croatia is proclaimed."
+      }
+    ],
+    "press": "Yugoslavia"
+  },
+  "1941-04-17": {
+    "headline": "Eleven days",
+    "summary": "Yugoslavia capitulates. The country is carved up between Germany, Italy, Hungary and Bulgaria, and a partisan war begins almost immediately that will last four years and cost a million lives.",
+    "events": [
+      {
+        "name": "Belgrade",
+        "lng": 20.46,
+        "lat": 44.79,
+        "kind": "political",
+        "text": "Unconditional surrender, eleven days after the first bomb."
+      }
+    ],
+    "press": "Yugoslavia"
+  },
+  "1941-04-23": {
+    "headline": "Greece surrenders in the north",
+    "summary": "The Metaxas Line, built to face Bulgaria, is outflanked through Yugoslavia. The Greek army in Epirus — which had beaten Italy for six months — surrenders to the Germans rather than the Italians.",
+    "events": [
+      {
+        "name": "Thessaloniki",
+        "lng": 22.94,
+        "lat": 40.64,
+        "kind": "capture",
+        "text": "The northern army capitulates."
+      }
+    ],
+    "press": "Greece"
+  },
+  "1941-04-27": {
+    "headline": "Athens",
+    "summary": "German troops enter Athens and raise the swastika over the Acropolis. The British begin evacuating 50,000 men to Crete and Egypt, losing most of their heavy equipment.",
+    "events": [
+      {
+        "name": "Athens",
+        "lng": 23.73,
+        "lat": 37.98,
+        "kind": "capture",
+        "text": "The flag over the Acropolis. A soldier ordered to take down the Greek flag reportedly wrapped himself in it and jumped."
+      }
+    ],
+    "press": "Athens"
+  },
+  "1941-05-20": {
+    "headline": "Crete",
+    "summary": "Germany drops 14,000 paratroops onto Crete. They land among defenders who know they are coming — Ultra has decoded the plan — and are shot down in the air in appalling numbers. They win anyway, by taking one airfield at Maleme.",
+    "events": [
+      {
+        "name": "Maleme",
+        "lng": 23.9,
+        "lat": 35.53,
+        "kind": "battle",
+        "text": "One airfield decides the island. A misunderstood order gives it away overnight."
+      }
+    ],
+    "press": "Crete"
+  },
+  "1941-06-01": {
+    "headline": "The last parachute drop",
+    "summary": "Crete falls. German losses are so heavy that Hitler forbids any further large airborne operation for the rest of the war. The Balkan campaign has also cost him five weeks he needed for Russia.",
+    "events": [
+      {
+        "name": "Crete",
+        "lng": 24.9,
+        "lat": 35.25,
+        "kind": "capture",
+        "text": "The island is taken and the airborne arm is finished as an offensive weapon."
+      }
+    ],
+    "press": "Crete"
+  }
+}

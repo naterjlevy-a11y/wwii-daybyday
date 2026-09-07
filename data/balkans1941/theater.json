@@ -1,0 +1,19 @@
+{
+  "id": "balkans1941",
+  "name": "Yugoslavia and Greece",
+  "startDate": "1941-04-06",
+  "endDate": "1941-06-01",
+  "hexResolution": 5,
+  "camera": {
+    "center": [
+      21.5,
+      41.5
+    ],
+    "zoom": 5.2
+  },
+  "sides": {
+    "defender": "Allied",
+    "axis": "Axis"
+  },
+  "note": "Approximate reconstruction. Germany, Italy, Hungary and Bulgaria all take part; all of them are drawn as one Axis. Crete at the end is an airborne assault, not an advancing line."
+}

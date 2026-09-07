@@ -1,0 +1,374 @@
+{
+  "1939-10-07": {
+    "headline": "The war goes quiet",
+    "summary": "Poland is finished and nothing replaces it. On the western front two great armies sit and look at each other across the Rhine. The French call it the drole de guerre; the Germans the Sitzkrieg; the British, the Bore War.",
+    "events": [],
+    "press": "Poland"
+  },
+  "1939-10-14": {
+    "headline": "Royal Oak",
+    "summary": "U-47 works its way through the blockships into Scapa Flow and sinks the battleship Royal Oak at anchor. 835 men die. It is a shock precisely because nothing else is happening.",
+    "events": [
+      {
+        "name": "Scapa Flow",
+        "lng": -3.05,
+        "lat": 58.9,
+        "kind": "battle",
+        "text": "A battleship sunk inside Britain's main fleet anchorage."
+      }
+    ],
+    "press": "Britain"
+  },
+  "1939-11-08": {
+    "headline": "The bomb in Munich",
+    "summary": "Georg Elser, a carpenter working alone, hides a bomb in the pillar behind the speaker's platform at the Burgerbraukeller. Hitler leaves thirteen minutes early. Eight others are killed.",
+    "events": [
+      {
+        "name": "Munich",
+        "lng": 11.58,
+        "lat": 48.14,
+        "kind": "political",
+        "text": "A lone carpenter comes within thirteen minutes of ending the war in 1939."
+      }
+    ],
+    "press": "Hitler"
+  },
+  "1939-11-26": {
+    "headline": "The shelling of Mainila",
+    "summary": "Soviet artillery shells a Soviet village on the Finnish border and Moscow blames Finland. Four days later the Red Army crosses the frontier.",
+    "events": [
+      {
+        "name": "Mainila",
+        "lng": 30.02,
+        "lat": 60.19,
+        "kind": "political",
+        "text": "A staged border incident, used as the pretext for war."
+      }
+    ],
+    "press": "Finland"
+  },
+  "1939-11-29": {
+    "headline": "The eve",
+    "summary": "The USSR breaks off relations with Finland. Finnish covering troops are already in position along a frontier that runs for thirteen hundred kilometres.",
+    "events": [],
+    "press": "Finland"
+  },
+  "1940-03-14": {
+    "headline": "After Finland",
+    "summary": "The Winter War is over and the western front has still not moved. Within four weeks Germany will land in Norway; within nine, it will be in France. The quiet was never peace, only the pause before the rest of it.",
+    "events": [],
+    "press": "Finland"
+  },
+  "1940-04-05": {
+    "headline": "Missing the bus",
+    "summary": "Chamberlain tells his party that Hitler has 'missed the bus' by not attacking in the winter. Four days later Germany lands in Norway. Within five weeks Chamberlain is out of office.",
+    "events": [
+      {
+        "name": "Munich",
+        "lng": 11.58,
+        "lat": 48.14,
+        "kind": "political",
+        "text": "The last week of the Phoney War."
+      }
+    ],
+    "press": "Chamberlain"
+  },
+  "1940-05-08": {
+    "headline": "The Norway debate",
+    "summary": "The Commons turns on Chamberlain over the Norwegian fiasco. Leo Amery quotes Cromwell at him: 'You have sat too long here for any good you have been doing. Depart, I say, and let us have done with you. In the name of God, go.'",
+    "events": [],
+    "press": "Chamberlain"
+  },
+  "1940-05-09": {
+    "headline": "The eve",
+    "summary": "Chamberlain accepts he must go. That evening Halifax declines the premiership and Churchill accepts it. Germany's invasion of the west begins the next morning, and Churchill takes office into it.",
+    "events": [],
+    "press": "Churchill"
+  },
+  "1940-06-26": {
+    "headline": "Alone",
+    "summary": "France is out. Britain faces Germany with no ally on the continent, and the war moves to the air over southern England and the sea lanes of the Atlantic.",
+    "events": [],
+    "press": "Britain"
+  },
+  "1940-07-10": {
+    "headline": "The Battle of Britain begins",
+    "summary": "With no army left on the continent, the war moves into the air. The Luftwaffe attacks Channel convoys first, then the airfields, in order to win the air superiority an invasion would need.",
+    "events": [
+      {
+        "name": "Dover",
+        "lng": 1.31,
+        "lat": 51.13,
+        "kind": "battle",
+        "text": "Attacks on Channel shipping open the battle."
+      }
+    ],
+    "press": "Britain"
+  },
+  "1940-08-13": {
+    "headline": "Adlertag",
+    "summary": "Eagle Day: the all-out attack on Fighter Command's airfields and radar stations. Radar is the thing that matters most and the Germans never work out why.",
+    "events": [
+      {
+        "name": "London",
+        "lng": -0.13,
+        "lat": 51.51,
+        "kind": "battle",
+        "text": "Fighter Command is fought to near exhaustion over the next three weeks."
+      }
+    ],
+    "press": "London"
+  },
+  "1940-09-07": {
+    "headline": "The Blitz",
+    "summary": "The Luftwaffe switches from the airfields to London — a decision that relieves Fighter Command at the moment it is closest to breaking. London is bombed for 57 consecutive nights.",
+    "events": [
+      {
+        "name": "London",
+        "lng": -0.13,
+        "lat": 51.51,
+        "kind": "bombing",
+        "text": "The East End and the docks burn. Around 43,000 civilians die in the Blitz."
+      }
+    ],
+    "press": "London"
+  },
+  "1940-09-17": {
+    "headline": "Sea Lion postponed",
+    "summary": "Hitler postpones the invasion of Britain indefinitely. It is never revived. Britain has not won, but it has not lost, and that is the difference.",
+    "events": [],
+    "press": "Britain"
+  },
+  "1940-10-28": {
+    "headline": "Italy invades Greece",
+    "summary": "Mussolini attacks Greece from Albania without telling Hitler, to prove Italy can conquer something on its own. Within a week the Greeks have stopped him; within a month they are in Albania.",
+    "events": [
+      {
+        "name": "Ioannina",
+        "lng": 20.85,
+        "lat": 39.66,
+        "kind": "invasion",
+        "text": "The Greek reply to the Italian ultimatum is reportedly one word: no."
+      }
+    ],
+    "press": "Greece"
+  },
+  "1941-03-11": {
+    "headline": "Lend-Lease",
+    "summary": "Roosevelt signs the Lend-Lease Act. America is still neutral and will be for nine more months, but it is now the arsenal of the countries that are not.",
+    "events": [],
+    "press": "Roosevelt"
+  },
+  "1941-05-24": {
+    "headline": "Hood and Bismarck",
+    "summary": "Bismarck destroys the battlecruiser Hood in the Denmark Strait in under ten minutes; three of 1,418 men survive. Three days later Bismarck is hunted down and sunk.",
+    "events": [
+      {
+        "name": "Denmark Strait",
+        "lng": -30.0,
+        "lat": 63.5,
+        "kind": "battle",
+        "text": "A magazine explosion. Britain's largest warship is gone in minutes."
+      }
+    ],
+    "press": "Bismarck"
+  },
+  "1941-12-07": {
+    "headline": "Pearl Harbor",
+    "summary": "Japan attacks the Pacific Fleet at anchor. Four battleships are sunk and 2,403 Americans killed. The war stops being European. Four days later Germany declares war on the United States, and the outcome is no longer really in doubt.",
+    "events": [
+      {
+        "name": "Pearl Harbor",
+        "lng": -157.95,
+        "lat": 21.36,
+        "kind": "bombing",
+        "text": "A date which will live in infamy."
+      }
+    ],
+    "press": "Japan"
+  },
+  "1940-07-03": {
+    "headline": "Mers-el-Kebir",
+    "summary": "Rather than risk the French fleet falling to Germany, the Royal Navy attacks its former ally at anchor in Algeria. 1,297 French sailors are killed. It convinces Washington that Britain intends to keep fighting, and it is never forgiven in France.",
+    "events": [
+      {
+        "name": "Mers-el-Kebir",
+        "lng": -0.71,
+        "lat": 35.72,
+        "kind": "battle",
+        "text": "Ships that had been allied a fortnight earlier."
+      }
+    ],
+    "press": "France"
+  },
+  "1940-07-16": {
+    "headline": "Directive 16",
+    "summary": "Hitler orders preparations for Sea Lion, the invasion of Britain — conditional on air superiority, which the Luftwaffe now has three months of summer to win.",
+    "events": [],
+    "press": "Britain"
+  },
+  "1940-08-20": {
+    "headline": "The Few",
+    "summary": "Churchill tells the Commons that never in the field of human conflict was so much owed by so many to so few. Fighter Command is at that moment losing pilots faster than it can train them.",
+    "events": [
+      {
+        "name": "London",
+        "lng": -0.13,
+        "lat": 51.51,
+        "kind": "political",
+        "text": "The speech is about the fighter pilots, and about the bomber crews too."
+      }
+    ],
+    "press": "London"
+  },
+  "1940-08-25": {
+    "headline": "Berlin is bombed",
+    "summary": "After German bombers hit London by accident, the RAF raids Berlin. The damage is trivial; the effect is not. Hitler switches the Luftwaffe from the airfields to the cities, and Fighter Command survives.",
+    "events": [
+      {
+        "name": "Berlin",
+        "lng": 13.4,
+        "lat": 52.52,
+        "kind": "bombing",
+        "text": "A retaliatory raid that changes the shape of the battle."
+      }
+    ],
+    "press": "Berlin"
+  },
+  "1940-09-15": {
+    "headline": "Battle of Britain Day",
+    "summary": "The heaviest day of daylight fighting. The Luftwaffe loses around 60 aircraft and concludes that the RAF is not, as it had been told, down to its last fifty fighters.",
+    "events": [
+      {
+        "name": "London",
+        "lng": -0.13,
+        "lat": 51.51,
+        "kind": "battle",
+        "text": "The turning point of the air battle."
+      }
+    ],
+    "press": "London"
+  },
+  "1940-09-27": {
+    "headline": "The Tripartite Pact",
+    "summary": "Germany, Italy and Japan sign a mutual defence treaty in Berlin. It is aimed at keeping America out of the war. Fifteen months later it is what brings America in.",
+    "events": [],
+    "press": "Japan"
+  },
+  "1940-11-11": {
+    "headline": "Taranto",
+    "summary": "Twenty-one obsolete Swordfish biplanes cripple half the Italian battle fleet at anchor in a single night. Japanese officers study the raid closely; thirteen months later they use the lesson at Pearl Harbor.",
+    "events": [
+      {
+        "name": "Taranto",
+        "lng": 17.24,
+        "lat": 40.47,
+        "kind": "battle",
+        "text": "Torpedo bombers against a defended anchorage. It works."
+      }
+    ],
+    "press": "Italy"
+  },
+  "1940-11-14": {
+    "headline": "Coventry",
+    "summary": "Five hundred bombers destroy the centre of Coventry and its cathedral in one night. The Germans coin a verb for it. It is the first time a European city is deliberately erased as a demonstration.",
+    "events": [
+      {
+        "name": "Coventry",
+        "lng": -1.51,
+        "lat": 52.41,
+        "kind": "bombing",
+        "text": "568 dead; the cathedral is left as a ruin on purpose after the war."
+      }
+    ],
+    "press": "England"
+  },
+  "1940-12-29": {
+    "headline": "The second great fire of London",
+    "summary": "An incendiary raid on a Sunday night, with the Thames at low tide and the water mains cut. The City burns around St Paul's, which is photographed standing in the smoke and becomes the image of the whole thing.",
+    "events": [
+      {
+        "name": "London",
+        "lng": -0.13,
+        "lat": 51.51,
+        "kind": "bombing",
+        "text": "The City burns. St Paul's is saved by its own fire watch."
+      }
+    ],
+    "press": "London"
+  },
+  "1941-02-06": {
+    "headline": "Not a good day to be Italian",
+    "summary": "Within eight weeks Italy has lost an army in Egypt, been thrown out of Greece into Albania, and had half its fleet crippled at Taranto. Germany begins taking over its allies' wars.",
+    "events": [],
+    "press": "Italy"
+  },
+  "1941-03-25": {
+    "headline": "Yugoslavia joins the Axis",
+    "summary": "The regent signs under pressure. Two days later officers of the air force overthrow him, and enormous crowds cheer in Belgrade. Hitler orders the country destroyed.",
+    "events": [
+      {
+        "name": "Belgrade",
+        "lng": 20.46,
+        "lat": 44.79,
+        "kind": "political",
+        "text": "A coup that buys the Allies weeks and costs Yugoslavia four years."
+      }
+    ],
+    "press": "Yugoslavia"
+  },
+  "1941-05-10": {
+    "headline": "Hess flies to Scotland",
+    "summary": "The Deputy Führer parachutes into a field near Glasgow on a private mission to negotiate peace. Nobody expected him and nobody believes him. He is imprisoned for the rest of his life.",
+    "events": [
+      {
+        "name": "Glasgow",
+        "lng": -4.25,
+        "lat": 55.86,
+        "kind": "political",
+        "text": "A farmer with a pitchfork takes the third-ranking Nazi prisoner."
+      }
+    ],
+    "press": "Hess"
+  },
+  "1941-05-11": {
+    "headline": "The worst night",
+    "summary": "The heaviest raid of the Blitz on London: 1,436 killed, the Commons chamber destroyed. It is also close to the last — the bombers are being moved east for Russia.",
+    "events": [
+      {
+        "name": "London",
+        "lng": -0.13,
+        "lat": 51.51,
+        "kind": "bombing",
+        "text": "The House of Commons is burnt out."
+      }
+    ],
+    "press": "London"
+  },
+  "1941-08-14": {
+    "headline": "The Atlantic Charter",
+    "summary": "Roosevelt and Churchill meet on warships off Newfoundland and publish a statement of war aims, four months before America is in the war. It becomes the basis of the United Nations.",
+    "events": [],
+    "press": "Roosevelt"
+  },
+  "1941-09-29": {
+    "headline": "Babi Yar",
+    "summary": "Over two days, 33,771 Jews are shot in a ravine outside Kiev. It is not an aberration but the method: the Einsatzgruppen following the armies east murder roughly a million and a half people this way before the camps take over.",
+    "events": [
+      {
+        "name": "Kiev",
+        "lng": 30.52,
+        "lat": 50.45,
+        "kind": "political",
+        "text": "The largest single massacre of the Holocaust to that date."
+      }
+    ],
+    "press": "Kiev"
+  },
+  "1941-12-11": {
+    "headline": "Germany declares war on the United States",
+    "summary": "Hitler declares war on America four days after Pearl Harbor, under no obligation to do so. It is arguably the single decision that settles the outcome.",
+    "events": [],
+    "press": "Germany"
+  }
+}

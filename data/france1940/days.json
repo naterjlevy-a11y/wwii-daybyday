@@ -1,0 +1,247 @@
+{
+  "1940-05-10": {
+    "headline": "Fall Gelb",
+    "summary": "At dawn Germany invades the Netherlands, Belgium and Luxembourg. The Allies march north into Belgium exactly as the German plan expects. The real blow is coming through the Ardennes, which the French have decided is impassable to tanks.",
+    "events": [
+      {
+        "name": "Eben-Emael",
+        "lng": 5.68,
+        "lat": 50.8,
+        "kind": "battle",
+        "text": "Belgium's strongest fort, held by 1,200 men, is taken in a day by 78 glider troops landing on its roof."
+      },
+      {
+        "name": "The Hague",
+        "lng": 4.3,
+        "lat": 52.08,
+        "kind": "invasion",
+        "text": "German paratroops try and fail to capture the Dutch government."
+      }
+    ],
+    "press": "Holland"
+  },
+  "1940-05-13": {
+    "headline": "Sedan",
+    "summary": "Seven Panzer divisions come out of the Ardennes and cross the Meuse at Sedan and Dinant against reservist divisions. The hinge of the French line breaks in an afternoon.",
+    "events": [
+      {
+        "name": "Sedan",
+        "lng": 4.94,
+        "lat": 49.7,
+        "kind": "battle",
+        "text": "The Meuse is crossed. The gap that decides the campaign is opened here."
+      },
+      {
+        "name": "Dinant",
+        "lng": 4.91,
+        "lat": 50.26,
+        "kind": "battle",
+        "text": "Rommel's 7th Panzer crosses on the same day."
+      }
+    ],
+    "press": "Sedan"
+  },
+  "1940-05-14": {
+    "headline": "Rotterdam",
+    "summary": "The centre of Rotterdam is bombed after the surrender talks have already begun; around 900 people are killed. The Netherlands capitulates the next day.",
+    "events": [
+      {
+        "name": "Rotterdam",
+        "lng": 4.48,
+        "lat": 51.92,
+        "kind": "bombing",
+        "text": "The city centre is destroyed. The Dutch surrender follows within a day."
+      }
+    ],
+    "press": "Rotterdam"
+  },
+  "1940-05-16": {
+    "headline": "Nobody is behind them",
+    "summary": "Churchill flies to Paris and asks where the strategic reserve is. Gamelin answers: there is none. The Panzers are driving west across open country with both flanks in the air and nothing in front of them.",
+    "events": [
+      {
+        "name": "Paris",
+        "lng": 2.35,
+        "lat": 48.85,
+        "kind": "political",
+        "text": "“Ou est la masse de manoeuvre?” “Aucune.”"
+      }
+    ],
+    "press": "France"
+  },
+  "1940-05-20": {
+    "headline": "The sea",
+    "summary": "Guderian's tanks reach the Channel at Abbeville, having covered 400 km in ten days. The armies in Belgium - the BEF, the French First Army, the Belgians - are cut off from everything south of them.",
+    "events": [
+      {
+        "name": "Abbeville",
+        "lng": 1.83,
+        "lat": 50.1,
+        "kind": "capture",
+        "text": "The corridor to the sea is complete. A million men are trapped north of it."
+      }
+    ],
+    "press": "Abbeville"
+  },
+  "1940-05-21": {
+    "headline": "Arras",
+    "summary": "A scratch British counterattack with 74 tanks badly frightens Rommel's division and contributes to the German halt order. It is the only Allied armoured counterstroke of the campaign.",
+    "events": [
+      {
+        "name": "Arras",
+        "lng": 2.78,
+        "lat": 50.29,
+        "kind": "battle",
+        "text": "Matilda tanks the German anti-tank guns cannot penetrate."
+      }
+    ],
+    "press": "Arras"
+  },
+  "1940-05-26": {
+    "headline": "Operation Dynamo",
+    "summary": "The evacuation from Dunkirk begins, hoped to lift 45,000 men. Destroyers, ferries, pleasure boats and fishing smacks go across for nine days.",
+    "events": [
+      {
+        "name": "Dunkirk",
+        "lng": 2.38,
+        "lat": 51.03,
+        "kind": "siege",
+        "text": "The evacuation opens. Nobody expects it to work."
+      }
+    ],
+    "press": "Dunkirk"
+  },
+  "1940-05-28": {
+    "headline": "Belgium surrenders",
+    "summary": "King Leopold capitulates without warning his allies, uncovering the eastern flank of the corridor to Dunkirk. The perimeter holds anyway, defended largely by the French First Army at Lille.",
+    "events": [
+      {
+        "name": "Lille",
+        "lng": 3.06,
+        "lat": 50.63,
+        "kind": "siege",
+        "text": "Four French divisions hold out and are given the honours of war when they surrender."
+      }
+    ],
+    "press": "Belgium"
+  },
+  "1940-06-04": {
+    "headline": "The last boat",
+    "summary": "338,000 men have been taken off, a third of them French. Every heavy weapon is left on the beach. Churchill tells the Commons that wars are not won by evacuations.",
+    "events": [
+      {
+        "name": "Dunkirk",
+        "lng": 2.38,
+        "lat": 51.03,
+        "kind": "capture",
+        "text": "The rearguard, some 40,000 French troops, surrenders."
+      }
+    ],
+    "press": "Dunkirk"
+  },
+  "1940-06-05": {
+    "headline": "Fall Rot",
+    "summary": "The Germans turn south against the Somme and the Aisne. The French, with sixty divisions against a hundred and forty and almost no armour left, fight better here than they did in May, and are broken anyway.",
+    "events": [
+      {
+        "name": "Amiens",
+        "lng": 2.3,
+        "lat": 49.89,
+        "kind": "battle",
+        "text": "The second offensive opens along the whole line."
+      }
+    ],
+    "press": "France"
+  },
+  "1940-06-10": {
+    "headline": "Italy declares war",
+    "summary": "Mussolini enters the war with France already beaten, to be at the peace table. Roosevelt: the hand that held the dagger has struck it into the back of its neighbour. The French government leaves Paris the same day.",
+    "events": [
+      {
+        "name": "Nice",
+        "lng": 7.27,
+        "lat": 43.7,
+        "kind": "political",
+        "text": "Italy attacks in the Alps and is held by a fraction of its numbers."
+      }
+    ],
+    "press": "Italy"
+  },
+  "1940-06-14": {
+    "headline": "Paris",
+    "summary": "German troops enter an open city. Two million Parisians have already gone south, part of an exodus of perhaps eight million people clogging every road in France.",
+    "events": [
+      {
+        "name": "Paris",
+        "lng": 2.35,
+        "lat": 48.85,
+        "kind": "capture",
+        "text": "Declared open to spare it. The swastika goes up on the Eiffel Tower."
+      }
+    ],
+    "press": "Paris"
+  },
+  "1940-06-17": {
+    "headline": "Petain asks for terms",
+    "summary": "The new premier, the defender of Verdun in 1916, tells France on the radio that the fighting must stop. The same day, off Saint-Nazaire, the Lancastria is bombed with perhaps 4,000 aboard - the worst loss in British maritime history, censored at the time.",
+    "events": [
+      {
+        "name": "Bordeaux",
+        "lng": -0.58,
+        "lat": 44.84,
+        "kind": "political",
+        "text": "The government asks Germany for an armistice."
+      },
+      {
+        "name": "Nantes",
+        "lng": -1.55,
+        "lat": 47.22,
+        "kind": "bombing",
+        "text": "The Lancastria is sunk. The news is suppressed."
+      }
+    ],
+    "press": "France"
+  },
+  "1940-06-18": {
+    "headline": "The appeal of 18 June",
+    "summary": "An almost unknown brigadier broadcasts from London that France has lost a battle but not the war. Almost nobody in France hears it. It becomes the founding act of the Free French.",
+    "events": [
+      {
+        "name": "Paris",
+        "lng": 2.35,
+        "lat": 48.85,
+        "kind": "political",
+        "text": "De Gaulle broadcasts from the BBC. He is sentenced to death in absentia."
+      }
+    ],
+    "press": "France"
+  },
+  "1940-06-22": {
+    "headline": "Compiegne",
+    "summary": "The armistice is signed in the same railway carriage, on the same spot, as the German surrender of 1918. Hitler has it brought out of its museum for the purpose. France is split: an occupied north and west, an unoccupied south-east.",
+    "events": [
+      {
+        "name": "Compiegne",
+        "lng": 2.83,
+        "lat": 49.42,
+        "kind": "political",
+        "text": "The 1918 carriage, on the 1918 ground, with the terms reversed."
+      }
+    ],
+    "press": "France"
+  },
+  "1940-06-25": {
+    "headline": "The fighting stops",
+    "summary": "The armistice takes effect at 00:35. Six weeks have cost France around 90,000 dead. The Vichy zone is never entered until 1942, which is why the map's south-east never changes hands here.",
+    "events": [
+      {
+        "name": "Vichy",
+        "lng": 3.43,
+        "lat": 46.13,
+        "kind": "political",
+        "text": "A spa town becomes the capital of what is left."
+      }
+    ],
+    "press": "France"
+  }
+}

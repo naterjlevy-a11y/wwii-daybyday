@@ -1,0 +1,429 @@
+{
+  "1939-09-01": {
+    "headline": "Germany invades Poland",
+    "summary": "At 04:45 the battleship Schleswig-Holstein opens fire on the Polish depot at Westerplatte. German armies cross the frontier from Pomerania, Silesia and East Prussia. Wieluń is bombed at dawn with no military target of note. Danzig declares its annexation to the Reich.",
+    "events": [
+      {
+        "name": "Westerplatte",
+        "lng": 18.67,
+        "lat": 54.41,
+        "kind": "siege",
+        "text": "182 Polish soldiers begin a seven-day defence against naval gunfire and Stuka attack."
+      },
+      {
+        "name": "Wieluń",
+        "lng": 18.57,
+        "lat": 51.22,
+        "kind": "bombing",
+        "text": "Struck at 04:40 by Ju 87s. Roughly 70% of the town destroyed; hundreds of civilians killed."
+      },
+      {
+        "name": "Mokra",
+        "lng": 18.86,
+        "lat": 51.0,
+        "kind": "battle",
+        "text": "The Wołyńska Cavalry Brigade holds off the 4th Panzer Division for a day."
+      }
+    ],
+    "press": "Poland"
+  },
+  "1939-09-02": {
+    "headline": "The frontier gives way",
+    "summary": "German armour breaks through at Mokra and Częstochowa. In the Corridor, Polish forces are split. The Luftwaffe has effective command of the air over most of the country.",
+    "events": [
+      {
+        "name": "Częstochowa",
+        "lng": 19.12,
+        "lat": 50.81,
+        "kind": "capture",
+        "text": "Taken by the 10th Army; reprisal killings follow on 4 September."
+      }
+    ],
+    "press": "Poland"
+  },
+  "1939-09-03": {
+    "headline": "Britain and France declare war",
+    "summary": "Chamberlain's ultimatum expires at 11:00; Britain declares war, France follows at 17:00. No offensive in the west materialises. The Battle of the Corridor ends with Pomerelia in German hands.",
+    "events": [
+      {
+        "name": "London",
+        "lng": -0.13,
+        "lat": 51.51,
+        "kind": "political",
+        "text": "\"This country is at war with Germany.\" The declaration brings no immediate relief to Poland."
+      }
+    ],
+    "press": "Britain"
+  },
+  "1939-09-04": {
+    "headline": "Across the Warta",
+    "summary": "German forces force the Warta. Polish command orders a general withdrawal to the Vistula–San line, abandoning the western provinces.",
+    "events": [],
+    "press": "Warsaw"
+  },
+  "1939-09-05": {
+    "headline": "The Battle of the Border ends",
+    "summary": "The frontier defences have been broken along their length. Polish armies are in retreat everywhere, harried from the air and unable to break contact.",
+    "events": [],
+    "press": "Poland"
+  },
+  "1939-09-06": {
+    "headline": "Kraków falls; the government leaves Warsaw",
+    "summary": "Kraków is abandoned without a fight. The Polish government and high command evacuate Warsaw for Lublin, beginning a retreat that will end at the Romanian border.",
+    "events": [
+      {
+        "name": "Kraków",
+        "lng": 19.94,
+        "lat": 50.06,
+        "kind": "capture",
+        "text": "Occupied without resistance; it becomes the seat of the General Government."
+      }
+    ],
+    "press": "Krakow"
+  },
+  "1939-09-07": {
+    "headline": "Westerplatte surrenders",
+    "summary": "After seven days, Major Sucharski surrenders the depot. The German commander permits him to keep his sabre. Polish forces begin organising the defence of Warsaw.",
+    "events": [
+      {
+        "name": "Westerplatte",
+        "lng": 18.67,
+        "lat": 54.41,
+        "kind": "siege",
+        "text": "Holds seven days against an expected twelve hours."
+      }
+    ],
+    "press": "Danzig"
+  },
+  "1939-09-08": {
+    "headline": "Panzers reach Warsaw",
+    "summary": "The 4th Panzer Division reaches the Ochota suburb and attempts to take the city on the move. The attack is thrown back with heavy loss. The siege of Warsaw begins.",
+    "events": [
+      {
+        "name": "Warsaw",
+        "lng": 21.01,
+        "lat": 52.23,
+        "kind": "siege",
+        "text": "The first armoured assault is repelled by improvised barricades and anti-tank guns."
+      }
+    ],
+    "press": "Warsaw"
+  },
+  "1939-09-09": {
+    "headline": "The Bzura counterattack",
+    "summary": "The Poznań and Pomorze Armies strike south across the Bzura into the German 8th Army's exposed flank — the largest battle of the campaign and the only major Polish offensive.",
+    "events": [
+      {
+        "name": "Bzura",
+        "lng": 20.1,
+        "lat": 52.3,
+        "kind": "battle",
+        "text": "Around 225,000 Polish troops attack. The offensive stalls German operations for a week."
+      }
+    ],
+    "press": "Poles"
+  },
+  "1939-09-10": {
+    "headline": "Bzura at its high-water mark",
+    "summary": "Polish forces retake Łowicz and press south. The German command diverts armour from Warsaw to contain the breakthrough.",
+    "events": [],
+    "press": "Poland"
+  },
+  "1939-09-11": {
+    "headline": "The tide turns on the Bzura",
+    "summary": "German reinforcements arrive from three directions. The Luftwaffe is concentrated over the battlefield in the campaign's heaviest air effort.",
+    "events": [],
+    "press": "Warsaw"
+  },
+  "1939-09-12": {
+    "headline": "Abbeville: no offensive in the west",
+    "summary": "The Anglo-French Supreme War Council meets at Abbeville and resolves against a general offensive on the Western Front. Poland will fight alone.",
+    "events": [
+      {
+        "name": "Abbeville",
+        "lng": 1.83,
+        "lat": 50.11,
+        "kind": "political",
+        "text": "The decision is not communicated to the Polish government."
+      }
+    ],
+    "press": "France"
+  },
+  "1939-09-13": {
+    "headline": "The pocket closes",
+    "summary": "German forces begin to encircle the Bzura armies. Polish units attempt to break through toward Warsaw.",
+    "events": [],
+    "press": "Poland"
+  },
+  "1939-09-14": {
+    "headline": "Warsaw encircled",
+    "summary": "The 3rd Army closes the ring east of Warsaw. Gdynia falls after a fortnight's defence; the surviving garrison withdraws to the Hel Peninsula.",
+    "events": [
+      {
+        "name": "Gdynia",
+        "lng": 18.53,
+        "lat": 54.52,
+        "kind": "capture",
+        "text": "Falls after two weeks. Defenders fall back onto Hel."
+      }
+    ],
+    "press": "Warsaw"
+  },
+  "1939-09-15": {
+    "headline": "Białystok taken; Brest invested",
+    "summary": "German forces reach Białystok and lay siege to the fortress at Brest-Litovsk.",
+    "events": [
+      {
+        "name": "Brest",
+        "lng": 23.7,
+        "lat": 52.09,
+        "kind": "siege",
+        "text": "Defended by a scratch garrison under General Plisowski."
+      }
+    ],
+    "press": "Brest"
+  },
+  "1939-09-16": {
+    "headline": "Brest fortress falls",
+    "summary": "The citadel is taken after four days. Polish forces on the Bzura are compressed into a shrinking pocket around Kampinos.",
+    "events": [],
+    "press": "Poland"
+  },
+  "1939-09-17": {
+    "headline": "The Soviet Union invades",
+    "summary": "At dawn the Red Army crosses the eastern frontier on the pretext that the Polish state has ceased to exist. Polish forces are ordered not to engage except in self-defence. That night the government crosses into Romania.",
+    "events": [
+      {
+        "name": "Eastern frontier",
+        "lng": 25.3,
+        "lat": 51.9,
+        "kind": "invasion",
+        "text": "Two Soviet fronts, roughly 600,000 men, advance against a thin border screen."
+      },
+      {
+        "name": "Kuty",
+        "lng": 25.18,
+        "lat": 48.26,
+        "kind": "political",
+        "text": "The Polish government crosses into Romania and is interned."
+      }
+    ],
+    "press": "Russia"
+  },
+  "1939-09-18": {
+    "headline": "The two armies meet",
+    "summary": "German and Soviet forces make contact near Brest. The Polish government is interned in Romania, ending organised state direction of the war.",
+    "events": [],
+    "press": "Russia"
+  },
+  "1939-09-19": {
+    "headline": "The Bzura ends",
+    "summary": "The Bzura pocket collapses; some 170,000 Polish soldiers go into captivity. Lwów is now besieged from the west by Germans and from the east by Soviets.",
+    "events": [
+      {
+        "name": "Lwów",
+        "lng": 24.03,
+        "lat": 49.84,
+        "kind": "siege",
+        "text": "Besieged from both sides at once — the only city so encircled in the campaign."
+      }
+    ],
+    "press": "Russia"
+  },
+  "1939-09-20": {
+    "headline": "Fighting around Lwów",
+    "summary": "Skirmishes between German and Soviet units outside Lwów before the demarcation is settled by negotiation.",
+    "events": [],
+    "press": "Lwow"
+  },
+  "1939-09-21": {
+    "headline": "The Germans withdraw from Lwów",
+    "summary": "Under the agreed demarcation, German forces pull back west of the San, leaving Lwów to the Red Army.",
+    "events": [],
+    "press": "Poland"
+  },
+  "1939-09-22": {
+    "headline": "Lwów surrenders; joint parade at Brest",
+    "summary": "General Langner surrenders Lwów to the Soviets on terms that are not honoured — officers are arrested. At Brest, Guderian and Krivoshein hold a joint parade to mark the handover.",
+    "events": [
+      {
+        "name": "Brest",
+        "lng": 23.7,
+        "lat": 52.09,
+        "kind": "political",
+        "text": "German and Soviet troops parade together as the city changes hands."
+      },
+      {
+        "name": "Lwów",
+        "lng": 24.03,
+        "lat": 49.84,
+        "kind": "capture",
+        "text": "Surrendered to the Red Army. The garrison's officers are deported."
+      }
+    ],
+    "press": "Lemberg"
+  },
+  "1939-09-23": {
+    "headline": "Krasnobród",
+    "summary": "One of the last cavalry-versus-cavalry actions in European warfare is fought at Krasnobród.",
+    "events": [
+      {
+        "name": "Krasnobród",
+        "lng": 23.2,
+        "lat": 50.55,
+        "kind": "battle",
+        "text": "A Polish squadron charges and takes the town."
+      }
+    ],
+    "press": "Poland"
+  },
+  "1939-09-24": {
+    "headline": "Warsaw under bombardment",
+    "summary": "Artillery and air attack on Warsaw intensify. The city is without reliable water or power.",
+    "events": [],
+    "press": "Warsaw"
+  },
+  "1939-09-25": {
+    "headline": "Black Monday",
+    "summary": "Around 1,150 German sorties strike Warsaw in the heaviest air attack of the campaign, dropping some 560 tons of bombs. Fires burn unchecked; the waterworks are destroyed.",
+    "events": [
+      {
+        "name": "Warsaw",
+        "lng": 21.01,
+        "lat": 52.23,
+        "kind": "bombing",
+        "text": "\"Black Monday.\" Casualties among civilians run into the thousands."
+      }
+    ],
+    "press": "Warsaw"
+  },
+  "1939-09-26": {
+    "headline": "The city cannot hold",
+    "summary": "With no water to fight fires and no prospect of relief, the Warsaw command opens negotiations.",
+    "events": [],
+    "press": "Warsaw"
+  },
+  "1939-09-27": {
+    "headline": "Terms agreed",
+    "summary": "General Rómmel accepts surrender terms for Warsaw. Underground resistance is organised the same day as Service for Poland's Victory.",
+    "events": [],
+    "press": "Warsaw"
+  },
+  "1939-09-28": {
+    "headline": "Warsaw capitulates; the partition is signed",
+    "summary": "Warsaw surrenders after twenty days; some 140,000 troops go into captivity and roughly 25,000 civilians have been killed. In Moscow, Ribbentrop and Molotov sign the German-Soviet Boundary and Friendship Treaty, fixing the partition along the Bug.",
+    "events": [
+      {
+        "name": "Warsaw",
+        "lng": 21.01,
+        "lat": 52.23,
+        "kind": "capture",
+        "text": "Capitulates after a twenty-day siege."
+      },
+      {
+        "name": "Moscow",
+        "lng": 37.62,
+        "lat": 55.75,
+        "kind": "political",
+        "text": "The Boundary and Friendship Treaty redraws the line, trading central Poland for Lithuania."
+      }
+    ],
+    "press": "Warsaw"
+  },
+  "1939-09-29": {
+    "headline": "Modlin surrenders",
+    "summary": "The fortress at Modlin, out of ammunition and crowded with wounded, surrenders after sixteen days.",
+    "events": [
+      {
+        "name": "Modlin",
+        "lng": 20.68,
+        "lat": 52.44,
+        "kind": "capture",
+        "text": "Surrenders with 24,000 men, 4,000 of them wounded."
+      }
+    ],
+    "press": "Modlin"
+  },
+  "1939-09-30": {
+    "headline": "A government in exile",
+    "summary": "Władysław Sikorski forms a Polish government-in-exile in Paris. The Polish state continues in law and in the field, if not in territory.",
+    "events": [
+      {
+        "name": "Paris",
+        "lng": 2.35,
+        "lat": 48.86,
+        "kind": "political",
+        "text": "Sikorski becomes Prime Minister; Raczkiewicz, President."
+      }
+    ],
+    "press": "Poland"
+  },
+  "1939-10-01": {
+    "headline": "German troops enter Warsaw",
+    "summary": "The occupation of the capital begins. On the Baltic, Hel is still fighting.",
+    "events": [],
+    "press": "Warsaw"
+  },
+  "1939-10-02": {
+    "headline": "Hel surrenders",
+    "summary": "The Hel Peninsula, bombarded from land, sea and air for a month, capitulates.",
+    "events": [
+      {
+        "name": "Hel",
+        "lng": 18.8,
+        "lat": 54.61,
+        "kind": "capture",
+        "text": "The last coastal position surrenders after 32 days."
+      }
+    ],
+    "press": "Hela"
+  },
+  "1939-10-03": {
+    "headline": "Kleeberg turns to fight",
+    "summary": "The Independent Operational Group Polesie, marching to relieve Warsaw and finding it already fallen, turns and engages German forces near Kock.",
+    "events": [
+      {
+        "name": "Kock",
+        "lng": 22.45,
+        "lat": 51.64,
+        "kind": "battle",
+        "text": "General Kleeberg's 17,000 men fight the campaign's last battle."
+      }
+    ],
+    "press": "Poland"
+  },
+  "1939-10-04": {
+    "headline": "Kock continues",
+    "summary": "Kleeberg's force holds its ground and counterattacks, taking prisoners on the second day of the battle.",
+    "events": [],
+    "press": "Poland"
+  },
+  "1939-10-05": {
+    "headline": "Victory parade in Warsaw",
+    "summary": "Hitler reviews German troops on Aleje Ujazdowskie. Eighty kilometres away, the fighting has not stopped.",
+    "events": [
+      {
+        "name": "Warsaw",
+        "lng": 21.01,
+        "lat": 52.23,
+        "kind": "political",
+        "text": "The victory parade is held while the Battle of Kock is still being fought."
+      }
+    ],
+    "press": "Hitler"
+  },
+  "1939-10-06": {
+    "headline": "The last surrender",
+    "summary": "Out of ammunition, General Kleeberg surrenders at Kock. Organised resistance in Poland ends after thirty-six days. Roughly 200,000 Polish soldiers evade capture or escape abroad to fight on.",
+    "events": [
+      {
+        "name": "Kock",
+        "lng": 22.45,
+        "lat": 51.64,
+        "kind": "capture",
+        "text": "The last field formation lays down its arms."
+      }
+    ],
+    "press": "Poland"
+  }
+}

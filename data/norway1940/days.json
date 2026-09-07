@@ -1,0 +1,135 @@
+{
+  "1940-04-09": {
+    "headline": "Weserubung",
+    "summary": "Germany invades Denmark and Norway on the same morning. Denmark, flat and indefensible, surrenders in about six hours. Six Norwegian ports are seized at dawn by troops carried in warships and, for the first time in war, by air.",
+    "events": [
+      {
+        "name": "Copenhagen",
+        "lng": 12.57,
+        "lat": 55.68,
+        "kind": "capture",
+        "text": "Denmark surrenders after roughly six hours and sixteen dead."
+      },
+      {
+        "name": "Oslo",
+        "lng": 10.75,
+        "lat": 59.91,
+        "kind": "battle",
+        "text": "The cruiser Blucher is sunk in Oslofjord by a fifty-year-old shore battery, delaying the capture of the capital long enough for the king and the gold reserve to escape."
+      },
+      {
+        "name": "Narvik",
+        "lng": 17.43,
+        "lat": 68.44,
+        "kind": "capture",
+        "text": "Ten destroyers land 2,000 mountain troops 1,900 km from Germany."
+      }
+    ],
+    "press": "Norway"
+  },
+  "1940-04-10": {
+    "headline": "The first battle of Narvik",
+    "summary": "British destroyers go into Narvik fjord and sink two German destroyers, losing two of their own. Three days later a battleship returns and sinks the remaining eight.",
+    "events": [
+      {
+        "name": "Narvik",
+        "lng": 17.43,
+        "lat": 68.44,
+        "kind": "battle",
+        "text": "The Royal Navy destroys the German destroyer flotilla in the fjords."
+      }
+    ],
+    "press": "Narvik"
+  },
+  "1940-04-14": {
+    "headline": "The Allies land",
+    "summary": "British, French and Polish troops come ashore at Namsos and Andalsnes to pincer Trondheim. They have no air cover, no skis and no snowshoes.",
+    "events": [
+      {
+        "name": "Namsos",
+        "lng": 11.5,
+        "lat": 64.47,
+        "kind": "invasion",
+        "text": "Allied troops land north of Trondheim."
+      },
+      {
+        "name": "Andalsnes",
+        "lng": 7.69,
+        "lat": 62.57,
+        "kind": "invasion",
+        "text": "And south of it. The pincer never closes."
+      }
+    ],
+    "press": "Norway"
+  },
+  "1940-04-20": {
+    "headline": "Up the valleys",
+    "summary": "German columns push north from Oslo up the Gudbrandsdal and Osterdal, supported by aircraft the Allies cannot match. Norwegian and British units fight delaying actions from valley to valley.",
+    "events": [
+      {
+        "name": "Lillehammer",
+        "lng": 10.46,
+        "lat": 61.12,
+        "kind": "battle",
+        "text": "A British brigade is committed piecemeal and pushed back."
+      }
+    ],
+    "press": "Norway"
+  },
+  "1940-05-02": {
+    "headline": "Southern Norway is abandoned",
+    "summary": "The Allies re-embark at Andalsnes and Namsos, having achieved nothing. Central Norway is lost. The campaign's failure brings down Chamberlain in London eight days later.",
+    "events": [
+      {
+        "name": "Andalsnes",
+        "lng": 7.69,
+        "lat": 62.57,
+        "kind": "political",
+        "text": "The evacuation is completed under air attack."
+      }
+    ],
+    "press": "Norway"
+  },
+  "1940-05-28": {
+    "headline": "Narvik is taken",
+    "summary": "French Foreign Legionnaires, Norwegians and Poles take Narvik - the first Allied ground victory of the war. It is already irrelevant: France is being overrun and the troops are needed there.",
+    "events": [
+      {
+        "name": "Narvik",
+        "lng": 17.43,
+        "lat": 68.44,
+        "kind": "capture",
+        "text": "The first Allied ground victory of the war, won a fortnight before it is thrown away."
+      }
+    ],
+    "press": "Narvik"
+  },
+  "1940-06-08": {
+    "headline": "Sailing away",
+    "summary": "The Allies evacuate Narvik in secret, blowing up the ore railway behind them. The carrier Glorious is caught by Scharnhorst and Gneisenau on the way home and sunk with over 1,500 men.",
+    "events": [
+      {
+        "name": "Narvik",
+        "lng": 17.43,
+        "lat": 68.44,
+        "kind": "political",
+        "text": "Taken on 28 May, given up on 8 June."
+      }
+    ],
+    "press": "Norway"
+  },
+  "1940-06-10": {
+    "headline": "Norway capitulates",
+    "summary": "Norwegian forces lay down their arms. The king and the government sail for Britain and keep fighting from there, with the fourth largest merchant fleet in the world.",
+    "events": [
+      {
+        "name": "Tromso",
+        "lng": 18.96,
+        "lat": 69.65,
+        "kind": "political",
+        "text": "The last free Norwegian ground; the king leaves from here."
+      }
+    ],
+    "press": "Norway"
+  }
+}

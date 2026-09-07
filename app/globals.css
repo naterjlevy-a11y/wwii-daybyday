@@ -1,26 +1,207 @@
 @import "tailwindcss";
 
+/*
+  The register is an archive, not an app.
+  Ink on newsprint, hairline rules, a ledger's numerals — the interface is meant
+  to read as the instrument a researcher works over, using the period's own
+  materials, not as a dashboard laid over a map.
+*/
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* Ground. Warm charcoal rather than neutral black: newsprint has a colour. */
+  --ink-900: #0c0b0a;
+  --ink-850: #131211;
+  --ink-800: #171614;
+  --ink-700: #1e1c1a;
+  --rule: #322e29;
+  --rule-strong: #4a443c;
+
+  /* Type. Bone, not white — printed paper is never #fff. */
+  --paper: #e9e3d7;
+  --paper-dim: #b3aa9b;
+  --paper-faint: #7d766a;
+  --paper-ghost: #56514a;
+
+  /* The one accent: an editor's annotation pencil. */
+  --mark: #c8912f;
+  --mark-bright: #e0aa4a;
+
+  --sans: var(--font-plex-mono), ui-monospace, SFMono-Regular, monospace;
+  --serif: var(--font-spectral), Georgia, "Times New Roman", serif;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-ink-900: var(--ink-900);
+  --color-ink-850: var(--ink-850);
+  --color-ink-800: var(--ink-800);
+  --color-ink-700: var(--ink-700);
+  --color-rule: var(--rule);
+  --color-rule-strong: var(--rule-strong);
+  --color-paper: var(--paper);
+  --color-paper-dim: var(--paper-dim);
+  --color-paper-faint: var(--paper-faint);
+  --color-paper-ghost: var(--paper-ghost);
+  --color-mark: var(--mark);
+  --color-mark-bright: var(--mark-bright);
+  --font-mono: var(--sans);
+  --font-serif: var(--serif);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html,
+body {
+  height: 100%;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--ink-900);
+  color: var(--paper-dim);
+  font-family: var(--serif);
+  font-feature-settings: "kern" 1, "liga" 1;
+  -webkit-font-smoothing: antialiased;
+}
+
+/*
+  Panels are printed cards, not glass.
+
+  No backdrop blur: it is the single most recognisable tell of a generated
+  interface, and it makes a map illegible underneath. A flat warm ground, one
+  hairline rule, and a fine grain instead — the map stays readable around them
+  and they read as paper laid on the table.
+*/
+.card {
+  position: relative;
+  background: color-mix(in srgb, var(--ink-850) 94%, transparent);
+  border: 1px solid var(--rule);
+  box-shadow:
+    0 1px 0 0 color-mix(in srgb, var(--paper) 4%, transparent) inset,
+    0 18px 40px -24px rgb(0 0 0 / 0.9);
+}
+
+/* Fine grain, so flat fills do not look like plastic. */
+.card::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.35;
+  mix-blend-mode: overlay;
+  background-image: url("data:image/svg+xml;utf8,\
+<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120'>\
+<filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='3'/>\
+<feColorMatrix type='saturate' values='0'/></filter>\
+<rect width='120' height='120' filter='url(%23n)' opacity='0.5'/></svg>");
+}
+
+/* The micro-label register: set in the mono, spaced like a filing tab. */
+.tab {
+  font-family: var(--sans);
+  font-size: 9.5px;
+  line-height: 1;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--paper-faint);
+}
+
+/* Ledger numerals: dates and counts should never shift width. */
+.figures {
+  font-family: var(--sans);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.02em;
+}
+
+/* A rule that carries a word, the way a printed section head does. */
+.ruled {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+.ruled::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: var(--rule);
+}
+
+/* The map's own controls, dragged into the same world as everything else. */
+.maplibregl-ctrl-group {
+  background: color-mix(in srgb, var(--ink-850) 94%, transparent) !important;
+  border: 1px solid var(--rule) !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+}
+.maplibregl-ctrl-group button + button {
+  border-top: 1px solid var(--rule) !important;
+}
+.maplibregl-ctrl-group button span {
+  filter: invert(88%) sepia(8%) saturate(220%) hue-rotate(3deg) brightness(94%);
+}
+.maplibregl-ctrl-attrib {
+  background: color-mix(in srgb, var(--ink-900) 88%, transparent) !important;
+  color: var(--paper-ghost) !important;
+  font-family: var(--sans) !important;
+  font-size: 9.5px !important;
+  letter-spacing: 0.04em;
+}
+.maplibregl-ctrl-attrib a {
+  color: var(--paper-faint) !important;
+}
+
+/* Scrollbars, in the same ink. */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--rule-strong) transparent;
+}
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--rule-strong);
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/*
+  The scrubber. The native control is kept for pointer and keyboard behaviour
+  and made invisible, but its thumb is collapsed to nothing: a thumb with width
+  travels from half-a-thumb to width-minus-half-a-thumb, which put it up to a
+  week out of step with the marker drawn above it.
+*/
+.timeline-input {
+  appearance: none;
+  background: transparent;
+}
+.timeline-input::-webkit-slider-runnable-track {
+  height: 100%;
+  background: transparent;
+}
+.timeline-input::-moz-range-track {
+  height: 100%;
+  background: transparent;
+}
+.timeline-input::-webkit-slider-thumb {
+  appearance: none;
+  width: 1px;
+  height: 28px;
+  background: transparent;
+}
+.timeline-input::-moz-range-thumb {
+  width: 1px;
+  height: 28px;
+  border: 0;
+  background: transparent;
+}
+.timeline-input:focus-visible {
+  outline: 1px solid var(--mark);
+  outline-offset: 3px;
 }

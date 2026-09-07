@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Moscow",
+    "lng": 37.62,
+    "lat": 55.75
+  },
+  {
+    "name": "Leningrad",
+    "lng": 30.34,
+    "lat": 59.93
+  },
+  {
+    "name": "Kiev",
+    "lng": 30.52,
+    "lat": 50.45
+  },
+  {
+    "name": "Minsk",
+    "lng": 27.56,
+    "lat": 53.9
+  },
+  {
+    "name": "Smolensk",
+    "lng": 32.05,
+    "lat": 54.78
+  },
+  {
+    "name": "Brest",
+    "lng": 23.66,
+    "lat": 51.66
+  },
+  {
+    "name": "Vilnius",
+    "lng": 25.28,
+    "lat": 54.69
+  },
+  {
+    "name": "Riga",
+    "lng": 24.11,
+    "lat": 56.95
+  },
+  {
+    "name": "Tallinn",
+    "lng": 24.75,
+    "lat": 59.44
+  },
+  {
+    "name": "Kaunas",
+    "lng": 23.9,
+    "lat": 54.9
+  },
+  {
+    "name": "Daugavpils",
+    "lng": 26.52,
+    "lat": 55.87
+  },
+  {
+    "name": "Pskov",
+    "lng": 28.33,
+    "lat": 57.82
+  },
+  {
+    "name": "Novgorod",
+    "lng": 31.27,
+    "lat": 58.52
+  },
+  {
+    "name": "Tver",
+    "lng": 35.9,
+    "lat": 56.86
+  },
+  {
+    "name": "Kalinin",
+    "lng": 35.9,
+    "lat": 56.86
+  },
+  {
+    "name": "Vyazma",
+    "lng": 34.3,
+    "lat": 55.21
+  },
+  {
+    "name": "Bryansk",
+    "lng": 34.37,
+    "lat": 53.24
+  },
+  {
+    "name": "Orel",
+    "lng": 36.07,
+    "lat": 52.97
+  },
+  {
+    "name": "Tula",
+    "lng": 37.62,
+    "lat": 54.2
+  },
+  {
+    "name": "Kursk",
+    "lng": 36.19,
+    "lat": 51.73
+  },
+  {
+    "name": "Kharkov",
+    "lng": 36.23,
+    "lat": 49.99
+  },
+  {
+    "name": "Poltava",
+    "lng": 34.55,
+    "lat": 49.59
+  },
+  {
+    "name": "Dnepropetrovsk",
+    "lng": 35.05,
+    "lat": 48.45
+  },
+  {
+    "name": "Zaporozhye",
+    "lng": 35.14,
+    "lat": 47.84
+  },
+  {
+    "name": "Odessa",
+    "lng": 30.73,
+    "lat": 46.48
+  },
+  {
+    "name": "Nikolaev",
+    "lng": 31.99,
+    "lat": 46.98
+  },
+  {
+    "name": "Kherson",
+    "lng": 32.62,
+    "lat": 46.64
+  },
+  {
+    "name": "Sevastopol",
+    "lng": 33.53,
+    "lat": 44.62
+  },
+  {
+    "name": "Simferopol",
+    "lng": 34.1,
+    "lat": 44.95
+  },
+  {
+    "name": "Kerch",
+    "lng": 36.47,
+    "lat": 45.35
+  },
+  {
+    "name": "Rostov",
+    "lng": 39.72,
+    "lat": 47.24
+  },
+  {
+    "name": "Taganrog",
+    "lng": 38.9,
+    "lat": 47.24
+  },
+  {
+    "name": "Mariupol",
+    "lng": 37.55,
+    "lat": 47.1
+  },
+  {
+    "name": "Stalino",
+    "lng": 37.8,
+    "lat": 48.0
+  },
+  {
+    "name": "Voronezh",
+    "lng": 39.2,
+    "lat": 51.67
+  },
+  {
+    "name": "Gomel",
+    "lng": 30.99,
+    "lat": 52.44
+  },
+  {
+    "name": "Mogilev",
+    "lng": 30.33,
+    "lat": 53.9
+  },
+  {
+    "name": "Vitebsk",
+    "lng": 30.2,
+    "lat": 55.19
+  },
+  {
+    "name": "Bobruisk",
+    "lng": 29.22,
+    "lat": 53.15
+  },
+  {
+    "name": "Zhitomir",
+    "lng": 28.66,
+    "lat": 50.25
+  },
+  {
+    "name": "Lvov",
+    "lng": 24.03,
+    "lat": 49.84
+  },
+  {
+    "name": "Rovno",
+    "lng": 26.25,
+    "lat": 50.62
+  },
+  {
+    "name": "Bialystok",
+    "lng": 23.16,
+    "lat": 53.13
+  },
+  {
+    "name": "Uman",
+    "lng": 30.22,
+    "lat": 48.75
+  },
+  {
+    "name": "Kremenchug",
+    "lng": 33.42,
+    "lat": 49.07
+  },
+  {
+    "name": "Belgorod",
+    "lng": 36.59,
+    "lat": 50.6
+  },
+  {
+    "name": "Velikiye Luki",
+    "lng": 30.53,
+    "lat": 56.33
+  },
+  {
+    "name": "Staraya Russa",
+    "lng": 31.36,
+    "lat": 57.99
+  },
+  {
+    "name": "Tikhvin",
+    "lng": 33.53,
+    "lat": 59.64
+  },
+  {
+    "name": "Mtsensk",
+    "lng": 36.57,
+    "lat": 53.28
+  },
+  {
+    "name": "Yelnya",
+    "lng": 33.18,
+    "lat": 54.58
+  },
+  {
+    "name": "Borodino",
+    "lng": 35.82,
+    "lat": 55.52
+  },
+  {
+    "name": "Klin",
+    "lng": 36.73,
+    "lat": 56.33
+  },
+  {
+    "name": "Naro-Fominsk",
+    "lng": 36.73,
+    "lat": 55.39
+  },
+  {
+    "name": "Mozhaisk",
+    "lng": 36.02,
+    "lat": 55.51
+  },
+  {
+    "name": "Kalach",
+    "lng": 43.53,
+    "lat": 48.69
+  }
+]

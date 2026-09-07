@@ -1,0 +1,20 @@
+{
+  "id": "desert1940",
+  "name": "The Western Desert",
+  "startDate": "1940-09-13",
+  "endDate": "1941-12-31",
+  "hexResolution": 5,
+  "camera": {
+    "center": [
+      22.5,
+      31.0
+    ],
+    "zoom": 5.0
+  },
+  "sides": {
+    "defender": "Commonwealth",
+    "axis": "Axis"
+  },
+  "note": "Approximate reconstruction of a front that swung 1,500 km back and forth twice in fifteen months. Only the coastal strip is contested: the desert south of it is empty, so the theater is drawn as a band along the coast rather than the whole Sahara.",
+  "cumulative": false
+}

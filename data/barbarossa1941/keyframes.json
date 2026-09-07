@@ -1,0 +1,489 @@
+{
+  "_comment": "Nine dated lines across a 1,600 km front. The pockets \u2014 Minsk, Smolensk, Kiev, Vyazma \u2014 are visible as the line's shape rather than modelled as encirclements.",
+  "keyframes": [
+    {
+      "date": "1941-06-22",
+      "label": "Barbarossa. Three million men attack on a front of 1,600 km, the largest invasion in history.",
+      "axis": [
+        [
+          [
+            22.0,
+            57.2
+          ],
+          [
+            24.2,
+            55.2
+          ],
+          [
+            24.5,
+            53.6
+          ],
+          [
+            24.2,
+            52.0
+          ],
+          [
+            24.4,
+            50.4
+          ],
+          [
+            25.0,
+            49.0
+          ],
+          [
+            26.5,
+            47.6
+          ],
+          [
+            18.0,
+            43.5
+          ],
+          [
+            18.0,
+            62.5
+          ]
+        ]
+      ],
+      "soviet": []
+    },
+    {
+      "date": "1941-06-28",
+      "label": "Minsk is encircled. Three hundred thousand men are taken in the first pocket.",
+      "axis": [
+        [
+          [
+            24.0,
+            57.4
+          ],
+          [
+            26.5,
+            55.5
+          ],
+          [
+            28.0,
+            53.9
+          ],
+          [
+            27.0,
+            52.0
+          ],
+          [
+            26.0,
+            50.5
+          ],
+          [
+            26.5,
+            49.0
+          ],
+          [
+            27.5,
+            47.5
+          ],
+          [
+            18.0,
+            43.5
+          ],
+          [
+            18.0,
+            62.5
+          ]
+        ]
+      ],
+      "soviet": []
+    },
+    {
+      "date": "1941-07-10",
+      "label": "The Baltic states are overrun and the Dnieper is reached. Stalin, silent for eleven days, calls it a patriotic war.",
+      "axis": [
+        [
+          [
+            28.3,
+            58.5
+          ],
+          [
+            29.5,
+            56.5
+          ],
+          [
+            31.0,
+            54.8
+          ],
+          [
+            30.0,
+            52.5
+          ],
+          [
+            29.5,
+            50.5
+          ],
+          [
+            28.5,
+            49.0
+          ],
+          [
+            28.5,
+            47.3
+          ],
+          [
+            18.0,
+            43.5
+          ],
+          [
+            18.0,
+            62.5
+          ]
+        ]
+      ],
+      "soviet": []
+    },
+    {
+      "date": "1941-08-08",
+      "label": "The Smolensk pocket is cleared. Another 300,000 prisoners, and the road to Moscow is open.",
+      "axis": [
+        [
+          [
+            30.0,
+            59.3
+          ],
+          [
+            31.5,
+            57.0
+          ],
+          [
+            33.0,
+            55.0
+          ],
+          [
+            32.5,
+            53.0
+          ],
+          [
+            31.0,
+            51.5
+          ],
+          [
+            29.6,
+            50.4
+          ],
+          [
+            29.5,
+            49.0
+          ],
+          [
+            30.0,
+            47.3
+          ],
+          [
+            18.0,
+            62.5
+          ]
+        ]
+      ],
+      "soviet": []
+    },
+    {
+      "date": "1941-09-08",
+      "label": "Leningrad is cut off. The siege that follows lasts 872 days and kills perhaps a million civilians.",
+      "axis": [
+        [
+          [
+            30.6,
+            59.9
+          ],
+          [
+            32.5,
+            58.0
+          ],
+          [
+            34.0,
+            55.5
+          ],
+          [
+            33.5,
+            53.0
+          ],
+          [
+            32.0,
+            51.5
+          ],
+          [
+            30.2,
+            50.4
+          ],
+          [
+            31.5,
+            48.5
+          ],
+          [
+            32.5,
+            46.8
+          ],
+          [
+            18.0,
+            62.5
+          ]
+        ]
+      ],
+      "soviet": []
+    },
+    {
+      "date": "1941-09-16",
+      "label": "The pincers meet at Lokhvitsa, east of Kiev. Four Soviet armies are inside the ring.",
+      "axis": [
+        [
+          [
+            30.8,
+            60.0
+          ],
+          [
+            32.8,
+            58.1
+          ],
+          [
+            34.2,
+            55.6
+          ],
+          [
+            34.0,
+            53.0
+          ],
+          [
+            33.0,
+            51.2
+          ],
+          [
+            32.6,
+            50.2
+          ],
+          [
+            33.2,
+            48.3
+          ],
+          [
+            33.2,
+            46.6
+          ],
+          [
+            18.0,
+            43.5
+          ],
+          [
+            18.0,
+            62.5
+          ]
+        ]
+      ],
+      "soviet": []
+    },
+    {
+      "date": "1941-09-26",
+      "label": "Kiev. The largest encirclement ever achieved: around 600,000 men. Hitler turned south to do it, and spent the good weather doing it.",
+      "axis": [
+        [
+          [
+            31.0,
+            60.0
+          ],
+          [
+            33.0,
+            58.2
+          ],
+          [
+            34.5,
+            55.6
+          ],
+          [
+            34.5,
+            52.5
+          ],
+          [
+            34.0,
+            50.8
+          ],
+          [
+            33.5,
+            50.0
+          ],
+          [
+            35.0,
+            48.0
+          ],
+          [
+            34.0,
+            46.5
+          ],
+          [
+            18.0,
+            62.5
+          ]
+        ]
+      ],
+      "soviet": []
+    },
+    {
+      "date": "1941-10-20",
+      "label": "Vyazma and Bryansk. Moscow is declared under a state of siege; the government leaves for Kuibyshev. Stalin stays.",
+      "axis": [
+        [
+          [
+            31.5,
+            60.2
+          ],
+          [
+            33.5,
+            58.4
+          ],
+          [
+            36.0,
+            55.8
+          ],
+          [
+            36.5,
+            53.0
+          ],
+          [
+            36.5,
+            50.5
+          ],
+          [
+            36.5,
+            48.0
+          ],
+          [
+            34.5,
+            45.5
+          ],
+          [
+            18.0,
+            43.5
+          ],
+          [
+            18.0,
+            62.5
+          ]
+        ]
+      ],
+      "soviet": []
+    },
+    {
+      "date": "1941-11-20",
+      "label": "Rostov is taken. It is retaken by the Soviets nine days later \u2014 the first German retreat of the war.",
+      "axis": [
+        [
+          [
+            32.0,
+            60.3
+          ],
+          [
+            34.0,
+            58.5
+          ],
+          [
+            36.6,
+            56.4
+          ],
+          [
+            38.2,
+            53.5
+          ],
+          [
+            38.0,
+            50.5
+          ],
+          [
+            38.0,
+            48.0
+          ],
+          [
+            40.6,
+            46.9
+          ],
+          [
+            18.0,
+            43.5
+          ],
+          [
+            18.0,
+            62.5
+          ]
+        ]
+      ],
+      "soviet": []
+    },
+    {
+      "date": "1941-12-05",
+      "label": "The high-water mark. Reconnaissance troops see Moscow through binoculars in -30 degrees. The next morning the Soviet counteroffensive begins.",
+      "axis": [
+        [
+          [
+            32.2,
+            60.4
+          ],
+          [
+            34.5,
+            58.6
+          ],
+          [
+            36.9,
+            56.5
+          ],
+          [
+            38.4,
+            53.6
+          ],
+          [
+            38.5,
+            50.6
+          ],
+          [
+            38.5,
+            48.2
+          ],
+          [
+            39.0,
+            47.2
+          ],
+          [
+            18.0,
+            43.5
+          ],
+          [
+            18.0,
+            62.5
+          ]
+        ]
+      ],
+      "soviet": []
+    }
+  ],
+  "holdouts": [
+    {
+      "name": "Brest Fortress",
+      "lng": 23.66,
+      "lat": 51.66,
+      "radiusKm": 18,
+      "heldUntil": "1941-06-29"
+    },
+    {
+      "name": "Odessa",
+      "lng": 30.73,
+      "lat": 46.48,
+      "radiusKm": 38,
+      "heldUntil": "1941-10-16"
+    },
+    {
+      "name": "Leningrad",
+      "lng": 30.34,
+      "lat": 59.93,
+      "radiusKm": 32,
+      "heldUntil": "never"
+    },
+    {
+      "name": "Sevastopol",
+      "lng": 33.53,
+      "lat": 44.62,
+      "radiusKm": 42,
+      "heldUntil": "never"
+    }
+  ]
+}

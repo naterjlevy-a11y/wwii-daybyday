@@ -1,0 +1,9 @@
+[
+  { "id": "poland1939", "name": "The Polish Campaign" },
+  { "id": "winterwar", "name": "The Winter War" },
+  { "id": "norway1940", "name": "Norway and Denmark" },
+  { "id": "france1940", "name": "France and the Low Countries" },
+  { "id": "desert1940", "name": "The Western Desert" },
+  { "id": "balkans1941", "name": "Yugoslavia and Greece" },
+  { "id": "barbarossa1941", "name": "Barbarossa" }
+]

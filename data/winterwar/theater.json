@@ -1,0 +1,20 @@
+{
+  "id": "winterwar",
+  "name": "The Winter War",
+  "startDate": "1939-11-30",
+  "endDate": "1940-03-13",
+  "hexResolution": 5,
+  "camera": {
+    "center": [
+      28.5,
+      64.5
+    ],
+    "zoom": 4.35
+  },
+  "note": "Control polygons are APPROXIMATE reconstructions authored for this scaffold. The Soviet line recedes in the centre and north through December and January: that is not an error, it is Tolvajarvi, Suomussalmi and the Raate Road.",
+  "sides": {
+    "defender": "Finnish",
+    "soviet": "Soviet"
+  },
+  "cumulative": false
+}

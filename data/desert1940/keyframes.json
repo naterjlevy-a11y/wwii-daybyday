@@ -1,0 +1,386 @@
+{
+  "_comment": "The desert war had no flanks and no fixed line: whoever could supply themselves further forward advanced, and the front is drawn as a north-south line sliding along the coast road. Tobruk is the exception, and is a holdout.",
+  "keyframes": [
+    {
+      "date": "1940-09-13",
+      "label": "Italy invades Egypt from Libya, advances 100 km to Sidi Barrani, and stops to build forts.",
+      "axis": [
+        [
+          [
+            26.2,
+            34.0
+          ],
+          [
+            26.2,
+            31.9
+          ],
+          [
+            25.9,
+            31.2
+          ],
+          [
+            25.3,
+            30.0
+          ],
+          [
+            24.599999999999998,
+            27.5
+          ],
+          [
+            12.0,
+            27.5
+          ],
+          [
+            12.0,
+            34.0
+          ]
+        ]
+      ],
+      "soviet": []
+    },
+    {
+      "date": "1940-12-08",
+      "label": "Three months of nothing. The Italians have dug in at Sidi Barrani since September.",
+      "axis": [
+        [
+          [
+            26.2,
+            34.0
+          ],
+          [
+            26.2,
+            31.9
+          ],
+          [
+            25.9,
+            31.2
+          ],
+          [
+            25.3,
+            30.0
+          ],
+          [
+            24.599999999999998,
+            27.5
+          ],
+          [
+            12.0,
+            27.5
+          ],
+          [
+            12.0,
+            34.0
+          ]
+        ]
+      ],
+      "soviet": []
+    },
+    {
+      "date": "1940-12-09",
+      "label": "Operation Compass. Two British divisions attack ten Italian ones and do not stop for two months.",
+      "axis": [
+        [
+          [
+            25.1,
+            34.0
+          ],
+          [
+            25.1,
+            31.9
+          ],
+          [
+            24.8,
+            31.2
+          ],
+          [
+            24.200000000000003,
+            30.0
+          ],
+          [
+            23.5,
+            27.5
+          ],
+          [
+            12.0,
+            27.5
+          ],
+          [
+            12.0,
+            34.0
+          ]
+        ]
+      ],
+      "soviet": []
+    },
+    {
+      "date": "1941-01-22",
+      "label": "Tobruk falls to the Australians.",
+      "axis": [
+        [
+          [
+            23.2,
+            34.0
+          ],
+          [
+            23.2,
+            31.9
+          ],
+          [
+            22.9,
+            31.2
+          ],
+          [
+            22.3,
+            30.0
+          ],
+          [
+            21.599999999999998,
+            27.5
+          ],
+          [
+            12.0,
+            27.5
+          ],
+          [
+            12.0,
+            34.0
+          ]
+        ]
+      ],
+      "soviet": []
+    },
+    {
+      "date": "1941-02-09",
+      "label": "Beda Fomm. The Italian Tenth Army is destroyed: 130,000 prisoners for 500 Commonwealth dead. Libya is nearly lost \u2014 and then half the army is sent to Greece.",
+      "axis": [
+        [
+          [
+            19.5,
+            34.0
+          ],
+          [
+            19.5,
+            31.9
+          ],
+          [
+            19.2,
+            31.2
+          ],
+          [
+            18.6,
+            30.0
+          ],
+          [
+            17.9,
+            27.5
+          ],
+          [
+            12.0,
+            27.5
+          ],
+          [
+            12.0,
+            34.0
+          ]
+        ]
+      ],
+      "soviet": []
+    },
+    {
+      "date": "1941-03-24",
+      "label": "Rommel attacks at El Agheila, against his orders.",
+      "axis": [
+        [
+          [
+            19.9,
+            34.0
+          ],
+          [
+            19.9,
+            31.9
+          ],
+          [
+            19.599999999999998,
+            31.2
+          ],
+          [
+            19.0,
+            30.0
+          ],
+          [
+            18.299999999999997,
+            27.5
+          ],
+          [
+            12.0,
+            27.5
+          ],
+          [
+            12.0,
+            34.0
+          ]
+        ]
+      ],
+      "soviet": []
+    },
+    {
+      "date": "1941-04-11",
+      "label": "Rommel arrives and drives straight back east. Everything is retaken in a fortnight except Tobruk, which is surrounded and held.",
+      "axis": [
+        [
+          [
+            25.1,
+            34.0
+          ],
+          [
+            25.1,
+            31.9
+          ],
+          [
+            24.8,
+            31.2
+          ],
+          [
+            24.200000000000003,
+            30.0
+          ],
+          [
+            23.5,
+            27.5
+          ],
+          [
+            12.0,
+            27.5
+          ],
+          [
+            12.0,
+            34.0
+          ]
+        ]
+      ],
+      "soviet": []
+    },
+    {
+      "date": "1941-06-17",
+      "label": "Operation Battleaxe fails. The line settles on the Egyptian frontier for five months.",
+      "axis": [
+        [
+          [
+            25.15,
+            34.0
+          ],
+          [
+            25.15,
+            31.9
+          ],
+          [
+            24.849999999999998,
+            31.2
+          ],
+          [
+            24.25,
+            30.0
+          ],
+          [
+            23.549999999999997,
+            27.5
+          ],
+          [
+            12.0,
+            27.5
+          ],
+          [
+            12.0,
+            34.0
+          ]
+        ]
+      ],
+      "soviet": []
+    },
+    {
+      "date": "1941-11-27",
+      "label": "Operation Crusader. The Eighth Army fights its way through to relieve Tobruk after 241 days.",
+      "axis": [
+        [
+          [
+            24.0,
+            34.0
+          ],
+          [
+            24.0,
+            31.9
+          ],
+          [
+            23.7,
+            31.2
+          ],
+          [
+            23.1,
+            30.0
+          ],
+          [
+            22.4,
+            27.5
+          ],
+          [
+            12.0,
+            27.5
+          ],
+          [
+            12.0,
+            34.0
+          ]
+        ]
+      ],
+      "soviet": []
+    },
+    {
+      "date": "1941-12-31",
+      "label": "Rommel withdraws to El Agheila, back where he started. The whole year has been a round trip.",
+      "axis": [
+        [
+          [
+            20.0,
+            34.0
+          ],
+          [
+            20.0,
+            31.9
+          ],
+          [
+            19.7,
+            31.2
+          ],
+          [
+            19.1,
+            30.0
+          ],
+          [
+            18.4,
+            27.5
+          ],
+          [
+            12.0,
+            27.5
+          ],
+          [
+            12.0,
+            34.0
+          ]
+        ]
+      ],
+      "soviet": []
+    }
+  ],
+  "holdouts": [
+    {
+      "name": "Tobruk",
+      "lng": 23.96,
+      "lat": 32.07,
+      "radiusKm": 45,
+      "from": "1941-01-22",
+      "heldUntil": "never",
+      "side": "defender"
+    }
+  ]
+}

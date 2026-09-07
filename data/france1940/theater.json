@@ -1,0 +1,19 @@
+{
+  "id": "france1940",
+  "name": "France and the Low Countries",
+  "startDate": "1940-05-10",
+  "endDate": "1940-06-25",
+  "hexResolution": 5,
+  "camera": {
+    "center": [
+      3.5,
+      48.5
+    ],
+    "zoom": 5.0
+  },
+  "sides": {
+    "defender": "Allied",
+    "axis": "German"
+  },
+  "note": "Approximate reconstruction. The final keyframe is the armistice demarcation line, so the unoccupied south-east stays Allied-coloured to the end: France is beaten in six weeks but the Vichy zone is never entered."
+}

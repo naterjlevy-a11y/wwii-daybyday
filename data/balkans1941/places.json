@@ -1,0 +1,217 @@
+[
+  {
+    "name": "Belgrade",
+    "lng": 20.46,
+    "lat": 44.79
+  },
+  {
+    "name": "Zagreb",
+    "lng": 15.98,
+    "lat": 45.81
+  },
+  {
+    "name": "Ljubljana",
+    "lng": 14.51,
+    "lat": 46.06
+  },
+  {
+    "name": "Sarajevo",
+    "lng": 18.41,
+    "lat": 43.86
+  },
+  {
+    "name": "Skopje",
+    "lng": 21.43,
+    "lat": 41.99
+  },
+  {
+    "name": "Nis",
+    "lng": 21.9,
+    "lat": 43.32
+  },
+  {
+    "name": "Novi Sad",
+    "lng": 19.83,
+    "lat": 45.27
+  },
+  {
+    "name": "Split",
+    "lng": 16.44,
+    "lat": 43.51
+  },
+  {
+    "name": "Dubrovnik",
+    "lng": 18.09,
+    "lat": 42.65
+  },
+  {
+    "name": "Podgorica",
+    "lng": 19.26,
+    "lat": 42.44
+  },
+  {
+    "name": "Banja Luka",
+    "lng": 17.19,
+    "lat": 44.77
+  },
+  {
+    "name": "Subotica",
+    "lng": 19.67,
+    "lat": 46.1
+  },
+  {
+    "name": "Athens",
+    "lng": 23.73,
+    "lat": 37.98
+  },
+  {
+    "name": "Thessaloniki",
+    "lng": 22.94,
+    "lat": 40.64
+  },
+  {
+    "name": "Larissa",
+    "lng": 22.42,
+    "lat": 39.64
+  },
+  {
+    "name": "Patras",
+    "lng": 21.73,
+    "lat": 38.25
+  },
+  {
+    "name": "Ioannina",
+    "lng": 20.85,
+    "lat": 39.66
+  },
+  {
+    "name": "Volos",
+    "lng": 22.94,
+    "lat": 39.36
+  },
+  {
+    "name": "Kavala",
+    "lng": 24.41,
+    "lat": 40.94
+  },
+  {
+    "name": "Corinth",
+    "lng": 22.94,
+    "lat": 37.94
+  },
+  {
+    "name": "Kalamata",
+    "lng": 22.11,
+    "lat": 37.04
+  },
+  {
+    "name": "Tripoli (Greece)",
+    "lng": 22.38,
+    "lat": 37.51
+  },
+  {
+    "name": "Nafplio",
+    "lng": 22.8,
+    "lat": 37.57
+  },
+  {
+    "name": "Lamia",
+    "lng": 22.43,
+    "lat": 38.9
+  },
+  {
+    "name": "Florina",
+    "lng": 21.41,
+    "lat": 40.78
+  },
+  {
+    "name": "Edessa",
+    "lng": 22.05,
+    "lat": 40.8
+  },
+  {
+    "name": "Serres",
+    "lng": 23.55,
+    "lat": 41.09
+  },
+  {
+    "name": "Alexandroupoli",
+    "lng": 25.87,
+    "lat": 40.85
+  },
+  {
+    "name": "Metaxas Line",
+    "lng": 23.6,
+    "lat": 41.3
+  },
+  {
+    "name": "Monastir Gap",
+    "lng": 21.34,
+    "lat": 41.03
+  },
+  {
+    "name": "Thermopylae",
+    "lng": 22.54,
+    "lat": 38.8
+  },
+  {
+    "name": "Heraklion",
+    "lng": 25.13,
+    "lat": 35.34
+  },
+  {
+    "name": "Chania",
+    "lng": 24.02,
+    "lat": 35.51
+  },
+  {
+    "name": "Maleme",
+    "lng": 23.9,
+    "lat": 35.53
+  },
+  {
+    "name": "Rethymno",
+    "lng": 24.47,
+    "lat": 35.37
+  },
+  {
+    "name": "Sfakia",
+    "lng": 24.13,
+    "lat": 35.2
+  },
+  {
+    "name": "Suda Bay",
+    "lng": 24.13,
+    "lat": 35.49
+  },
+  {
+    "name": "Corfu",
+    "lng": 19.92,
+    "lat": 39.62
+  },
+  {
+    "name": "Rhodes",
+    "lng": 28.22,
+    "lat": 36.44
+  },
+  {
+    "name": "Bitola",
+    "lng": 21.34,
+    "lat": 41.03
+  },
+  {
+    "name": "Prilep",
+    "lng": 21.55,
+    "lat": 41.35
+  },
+  {
+    "name": "Kragujevac",
+    "lng": 20.91,
+    "lat": 44.01
+  },
+  {
+    "name": "Uzice",
+    "lng": 19.85,
+    "lat": 43.86
+  }
+]

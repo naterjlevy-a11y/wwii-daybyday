@@ -1,0 +1,268 @@
+{
+  "1939-11-30": {
+    "headline": "The Soviet Union attacks Finland",
+    "summary": "Without a declaration of war, Soviet aircraft bomb Helsinki and four Soviet armies cross the frontier. The pretext is the Shelling of Mainila, a border incident the USSR staged itself. Finland has 337,000 men against roughly a million.",
+    "events": [
+      {
+        "name": "Helsinki",
+        "lng": 24.94,
+        "lat": 60.17,
+        "kind": "bombing",
+        "text": "Air raids on the capital kill around 90 people on the first day."
+      },
+      {
+        "name": "Karelian Isthmus",
+        "lng": 29.9,
+        "lat": 60.4,
+        "kind": "invasion",
+        "text": "The Soviet 7th Army advances on the main axis toward Viipuri."
+      }
+    ],
+    "press": "Finland"
+  },
+  "1939-12-01": {
+    "headline": "A government that does not exist",
+    "summary": "At Terijoki the USSR proclaims a 'Finnish Democratic Republic' under Otto Kuusinen and signs a treaty with it, so that Moscow can say it is not at war with Finland at all. No one outside the Soviet Union recognises it.",
+    "events": [
+      {
+        "name": "Terijoki",
+        "lng": 30.22,
+        "lat": 60.2,
+        "kind": "political",
+        "text": "The puppet government is announced in the first Finnish town taken."
+      }
+    ],
+    "press": "Finland"
+  },
+  "1939-12-02": {
+    "headline": "Petsamo falls",
+    "summary": "Soviet troops take Petsamo, closing Finland's only Arctic port. In the south the advance grinds forward through the covering forces toward the main defensive line.",
+    "events": [
+      {
+        "name": "Petsamo",
+        "lng": 31.2,
+        "lat": 69.55,
+        "kind": "capture",
+        "text": "Finland loses its outlet to the Barents Sea."
+      }
+    ],
+    "press": "Finland"
+  },
+  "1939-12-06": {
+    "headline": "At the Mannerheim Line",
+    "summary": "The Soviet advance on the Isthmus reaches the Mannerheim Line, a belt of field fortifications and concrete bunkers running from the Gulf of Finland to Lake Ladoga. It is far weaker than Soviet propaganda later claims, and it holds.",
+    "events": [
+      {
+        "name": "Summa",
+        "lng": 28.98,
+        "lat": 60.55,
+        "kind": "battle",
+        "text": "The strongest sector of the line, and the one the Soviets attack hardest."
+      }
+    ],
+    "press": "Finland"
+  },
+  "1939-12-11": {
+    "headline": "Tolvajarvi",
+    "summary": "North of Ladoga, Colonel Talvela attacks a Soviet division that has pushed too far, too fast, along a single forest road. It is Finland's first clear victory of the war.",
+    "events": [
+      {
+        "name": "Tolvajarvi",
+        "lng": 31.4,
+        "lat": 62.1,
+        "kind": "battle",
+        "text": "A Soviet division is broken up in the forest and driven back east."
+      }
+    ],
+    "press": "Finns"
+  },
+  "1939-12-14": {
+    "headline": "Expelled from the League",
+    "summary": "The League of Nations expels the Soviet Union — the only member ever expelled. It changes nothing on the ground. Britain and France discuss an expedition to Finland that never comes.",
+    "events": [
+      {
+        "name": "Helsinki",
+        "lng": 24.94,
+        "lat": 60.17,
+        "kind": "political",
+        "text": "Sympathy abroad is enormous; material help is not."
+      }
+    ],
+    "press": "Finland"
+  },
+  "1939-12-17": {
+    "headline": "The great assault on Summa",
+    "summary": "The Soviet 7th Army throws itself at Summa for four days. Massed infantry advance behind tanks across open snow into registered machine-gun fire. The attack fails with heavy loss.",
+    "events": [
+      {
+        "name": "Summa",
+        "lng": 28.98,
+        "lat": 60.55,
+        "kind": "battle",
+        "text": "Repeated frontal assaults are stopped in front of the wire."
+      }
+    ],
+    "press": "Finland"
+  },
+  "1939-12-23": {
+    "headline": "The Finnish counterattack fails",
+    "summary": "Mannerheim permits a counterattack on the Isthmus. Finnish units, without armour, artillery ammunition or radios, cannot coordinate and are pulled back the same day. Finland does not attack there again.",
+    "events": [
+      {
+        "name": "Karelian Isthmus",
+        "lng": 29.2,
+        "lat": 60.6,
+        "kind": "battle",
+        "text": "The one Finnish offensive on the Isthmus is called off within hours."
+      }
+    ],
+    "press": "Finns"
+  },
+  "1939-12-27": {
+    "headline": "Suomussalmi",
+    "summary": "In the far north-east the Finnish 9th Division cuts the Soviet 163rd Division into pieces — motti, the word for a stack of firewood. Small ski units move through the forest around road-bound columns that cannot leave the road.",
+    "events": [
+      {
+        "name": "Suomussalmi",
+        "lng": 28.9,
+        "lat": 64.88,
+        "kind": "battle",
+        "text": "The village is retaken; the 163rd Division is destroyed piecemeal."
+      }
+    ],
+    "press": "Finland"
+  },
+  "1940-01-01": {
+    "headline": "Forty below",
+    "summary": "The winter of 1939-40 is the coldest in a century. Soviet troops, without winter clothing or field kitchens and tied to their vehicles, freeze in place. Finnish units in white, on skis, move where they like.",
+    "events": [
+      {
+        "name": "Kuhmo",
+        "lng": 29.52,
+        "lat": 64.13,
+        "kind": "battle",
+        "text": "Another Soviet division is encircled and cut into pockets."
+      }
+    ],
+    "press": "Finland"
+  },
+  "1940-01-07": {
+    "headline": "The Raate Road",
+    "summary": "The Soviet 44th Division, sent to relieve Suomussalmi, is trapped along thirty kilometres of forest road and annihilated. The Finns take 43 tanks and dozens of guns from an army they cannot supply themselves.",
+    "events": [
+      {
+        "name": "Raate",
+        "lng": 29.85,
+        "lat": 64.87,
+        "kind": "battle",
+        "text": "A whole division is destroyed on a single road. Finnish losses are a fraction of Soviet ones."
+      }
+    ],
+    "press": "Finns"
+  },
+  "1940-01-20": {
+    "headline": "Timoshenko takes over",
+    "summary": "Stalin replaces the command, concentrates artillery and armour on the Isthmus, and stops trying to win everywhere at once. The Red Army spends February learning to break a fortified line, and then breaks it.",
+    "events": [
+      {
+        "name": "Karelian Isthmus",
+        "lng": 29.4,
+        "lat": 60.6,
+        "kind": "political",
+        "text": "The Soviet plan narrows from conquest of Finland to a breakthrough at Summa."
+      }
+    ],
+    "press": "Finland"
+  },
+  "1940-02-01": {
+    "headline": "The February offensive",
+    "summary": "Ten days of bombardment open, some 300,000 shells on the first day. The Finns have no depth, no reserves and almost no way to reply.",
+    "events": [
+      {
+        "name": "Summa",
+        "lng": 28.98,
+        "lat": 60.55,
+        "kind": "bombing",
+        "text": "Artillery fire on a scale nothing in Finland's plans anticipated."
+      }
+    ],
+    "press": "Finland"
+  },
+  "1940-02-11": {
+    "headline": "The line is broken",
+    "summary": "Soviet assault groups take the Summa sector. Behind it there is nothing but an intermediate line and exhausted troops. From here the war has one possible ending.",
+    "events": [
+      {
+        "name": "Summa",
+        "lng": 28.98,
+        "lat": 60.55,
+        "kind": "capture",
+        "text": "The Mannerheim Line is pierced. The Finnish army begins to fall back."
+      }
+    ],
+    "press": "Finland"
+  },
+  "1940-02-15": {
+    "headline": "Falling back",
+    "summary": "Mannerheim authorises a withdrawal to the intermediate line. The retreat is orderly, but Finland is now losing ground it cannot get back and men it cannot replace.",
+    "events": [
+      {
+        "name": "Viipuri",
+        "lng": 28.75,
+        "lat": 60.71,
+        "kind": "siege",
+        "text": "The army falls back toward Finland's second city."
+      }
+    ],
+    "press": "Finland"
+  },
+  "1940-03-02": {
+    "headline": "Across the ice",
+    "summary": "Soviet troops cross the frozen Vyborg Bay to get behind the city. Finnish artillery breaks the ice under them; they keep coming. Peace talks open in Moscow while the fighting goes on.",
+    "events": [
+      {
+        "name": "Viipuri",
+        "lng": 28.75,
+        "lat": 60.71,
+        "kind": "battle",
+        "text": "The city is attacked from the west, across the sea ice."
+      }
+    ],
+    "press": "Viipuri"
+  },
+  "1940-03-11": {
+    "headline": "The last days",
+    "summary": "Viipuri is fought over street by street. Finland's negotiators in Moscow are told the terms will only get worse. Britain and France offer an expedition that Sweden will not let through.",
+    "events": [
+      {
+        "name": "Viipuri",
+        "lng": 28.75,
+        "lat": 60.71,
+        "kind": "battle",
+        "text": "Fighting inside the city as the treaty is being drafted."
+      }
+    ],
+    "press": "Finland"
+  },
+  "1940-03-13": {
+    "headline": "The Moscow Peace",
+    "summary": "At 11:00 the guns stop. Finland cedes the whole Karelian Isthmus, Viipuri, Ladoga Karelia, Salla and the Rybachy Peninsula, and leases Hanko — far more than the Red Army ever occupied. Some 420,000 Karelians, twelve per cent of the population, leave for Finland rather than live under Soviet rule. Finland is not occupied, and its army is intact. The Red Army's performance persuades Hitler that the Soviet Union can be beaten in a summer.",
+    "events": [
+      {
+        "name": "Viipuri",
+        "lng": 28.75,
+        "lat": 60.71,
+        "kind": "political",
+        "text": "Ceded with the Isthmus. The city is evacuated almost entirely."
+      },
+      {
+        "name": "Hanko",
+        "lng": 22.97,
+        "lat": 59.83,
+        "kind": "political",
+        "text": "Leased to the USSR for thirty years as a naval base."
+      }
+    ],
+    "press": "Finland"
+  }
+}

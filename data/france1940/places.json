@@ -1,0 +1,342 @@
+[
+  {
+    "name": "Paris",
+    "lng": 2.35,
+    "lat": 48.85
+  },
+  {
+    "name": "Sedan",
+    "lng": 4.94,
+    "lat": 49.7
+  },
+  {
+    "name": "Dunkirk",
+    "lng": 2.38,
+    "lat": 51.03
+  },
+  {
+    "name": "Abbeville",
+    "lng": 1.83,
+    "lat": 50.1
+  },
+  {
+    "name": "Amiens",
+    "lng": 2.3,
+    "lat": 49.89
+  },
+  {
+    "name": "Arras",
+    "lng": 2.78,
+    "lat": 50.29
+  },
+  {
+    "name": "Calais",
+    "lng": 1.86,
+    "lat": 50.95
+  },
+  {
+    "name": "Boulogne",
+    "lng": 1.61,
+    "lat": 50.73
+  },
+  {
+    "name": "Lille",
+    "lng": 3.06,
+    "lat": 50.63
+  },
+  {
+    "name": "Rotterdam",
+    "lng": 4.48,
+    "lat": 51.92
+  },
+  {
+    "name": "Amsterdam",
+    "lng": 4.9,
+    "lat": 52.37
+  },
+  {
+    "name": "The Hague",
+    "lng": 4.3,
+    "lat": 52.08
+  },
+  {
+    "name": "Antwerp",
+    "lng": 4.4,
+    "lat": 51.22
+  },
+  {
+    "name": "Brussels",
+    "lng": 4.35,
+    "lat": 50.85
+  },
+  {
+    "name": "Liege",
+    "lng": 5.57,
+    "lat": 50.63
+  },
+  {
+    "name": "Namur",
+    "lng": 4.87,
+    "lat": 50.47
+  },
+  {
+    "name": "Eben-Emael",
+    "lng": 5.68,
+    "lat": 50.8
+  },
+  {
+    "name": "Maastricht",
+    "lng": 5.69,
+    "lat": 50.85
+  },
+  {
+    "name": "Luxembourg",
+    "lng": 6.13,
+    "lat": 49.61
+  },
+  {
+    "name": "Reims",
+    "lng": 4.03,
+    "lat": 49.26
+  },
+  {
+    "name": "Soissons",
+    "lng": 3.32,
+    "lat": 49.38
+  },
+  {
+    "name": "Compiegne",
+    "lng": 2.83,
+    "lat": 49.42
+  },
+  {
+    "name": "Rouen",
+    "lng": 1.1,
+    "lat": 49.44
+  },
+  {
+    "name": "Le Havre",
+    "lng": 0.11,
+    "lat": 49.49
+  },
+  {
+    "name": "Cherbourg",
+    "lng": -1.62,
+    "lat": 49.64
+  },
+  {
+    "name": "Caen",
+    "lng": -0.37,
+    "lat": 49.18
+  },
+  {
+    "name": "Rennes",
+    "lng": -1.68,
+    "lat": 48.11
+  },
+  {
+    "name": "Brest",
+    "lng": -4.49,
+    "lat": 48.39
+  },
+  {
+    "name": "Nantes",
+    "lng": -1.55,
+    "lat": 47.22
+  },
+  {
+    "name": "Tours",
+    "lng": 0.69,
+    "lat": 47.39
+  },
+  {
+    "name": "Orleans",
+    "lng": 1.9,
+    "lat": 47.9
+  },
+  {
+    "name": "Bordeaux",
+    "lng": -0.58,
+    "lat": 44.84
+  },
+  {
+    "name": "Vichy",
+    "lng": 3.43,
+    "lat": 46.13
+  },
+  {
+    "name": "Lyon",
+    "lng": 4.84,
+    "lat": 45.76
+  },
+  {
+    "name": "Marseille",
+    "lng": 5.37,
+    "lat": 43.3
+  },
+  {
+    "name": "Toulouse",
+    "lng": 1.44,
+    "lat": 43.6
+  },
+  {
+    "name": "Nice",
+    "lng": 7.27,
+    "lat": 43.7
+  },
+  {
+    "name": "Strasbourg",
+    "lng": 7.75,
+    "lat": 48.57
+  },
+  {
+    "name": "Metz",
+    "lng": 6.18,
+    "lat": 49.12
+  },
+  {
+    "name": "Nancy",
+    "lng": 6.18,
+    "lat": 48.69
+  },
+  {
+    "name": "Verdun",
+    "lng": 5.38,
+    "lat": 49.16
+  },
+  {
+    "name": "Dijon",
+    "lng": 5.04,
+    "lat": 47.32
+  },
+  {
+    "name": "Besancon",
+    "lng": 6.02,
+    "lat": 47.24
+  },
+  {
+    "name": "Clermont-Ferrand",
+    "lng": 3.09,
+    "lat": 45.78
+  },
+  {
+    "name": "Limoges",
+    "lng": 1.26,
+    "lat": 45.83
+  },
+  {
+    "name": "Poitiers",
+    "lng": 0.34,
+    "lat": 46.58
+  },
+  {
+    "name": "Angers",
+    "lng": -0.55,
+    "lat": 47.47
+  },
+  {
+    "name": "Le Mans",
+    "lng": 0.2,
+    "lat": 48.01
+  },
+  {
+    "name": "Chartres",
+    "lng": 1.49,
+    "lat": 48.44
+  },
+  {
+    "name": "Saint-Quentin",
+    "lng": 3.29,
+    "lat": 49.85
+  },
+  {
+    "name": "Cambrai",
+    "lng": 3.24,
+    "lat": 50.18
+  },
+  {
+    "name": "Laon",
+    "lng": 3.62,
+    "lat": 49.56
+  },
+  {
+    "name": "Montcornet",
+    "lng": 4.03,
+    "lat": 49.69
+  },
+  {
+    "name": "Beauvais",
+    "lng": 2.08,
+    "lat": 49.43
+  },
+  {
+    "name": "Saint-Valery",
+    "lng": 0.71,
+    "lat": 50.86
+  },
+  {
+    "name": "Rethel",
+    "lng": 4.37,
+    "lat": 49.51
+  },
+  {
+    "name": "Charleville",
+    "lng": 4.72,
+    "lat": 49.77
+  },
+  {
+    "name": "Montmedy",
+    "lng": 5.36,
+    "lat": 49.52
+  },
+  {
+    "name": "Dinant",
+    "lng": 4.91,
+    "lat": 50.26
+  },
+  {
+    "name": "Gembloux",
+    "lng": 4.69,
+    "lat": 50.56
+  },
+  {
+    "name": "Hannut",
+    "lng": 5.08,
+    "lat": 50.67
+  },
+  {
+    "name": "Ypres",
+    "lng": 2.89,
+    "lat": 50.85
+  },
+  {
+    "name": "Ostend",
+    "lng": 2.92,
+    "lat": 51.23
+  },
+  {
+    "name": "Zeebrugge",
+    "lng": 3.2,
+    "lat": 51.33
+  },
+  {
+    "name": "Bourges",
+    "lng": 2.4,
+    "lat": 47.08
+  },
+  {
+    "name": "Chalon-sur-Saone",
+    "lng": 4.85,
+    "lat": 46.78
+  },
+  {
+    "name": "Moulins",
+    "lng": 3.33,
+    "lat": 46.57
+  },
+  {
+    "name": "Angouleme",
+    "lng": 0.16,
+    "lat": 45.65
+  }
+]

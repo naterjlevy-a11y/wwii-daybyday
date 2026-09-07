@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Oslo",
+    "lng": 10.75,
+    "lat": 59.91
+  },
+  {
+    "name": "Bergen",
+    "lng": 5.32,
+    "lat": 60.39
+  },
+  {
+    "name": "Trondheim",
+    "lng": 10.4,
+    "lat": 63.43
+  },
+  {
+    "name": "Narvik",
+    "lng": 17.43,
+    "lat": 68.44
+  },
+  {
+    "name": "Stavanger",
+    "lng": 5.73,
+    "lat": 58.97
+  },
+  {
+    "name": "Kristiansand",
+    "lng": 8.0,
+    "lat": 58.15
+  },
+  {
+    "name": "Tromso",
+    "lng": 18.96,
+    "lat": 69.65
+  },
+  {
+    "name": "Andalsnes",
+    "lng": 7.69,
+    "lat": 62.57
+  },
+  {
+    "name": "Namsos",
+    "lng": 11.5,
+    "lat": 64.47
+  },
+  {
+    "name": "Elverum",
+    "lng": 11.56,
+    "lat": 60.88
+  },
+  {
+    "name": "Lillehammer",
+    "lng": 10.46,
+    "lat": 61.12
+  },
+  {
+    "name": "Dombas",
+    "lng": 9.13,
+    "lat": 62.07
+  },
+  {
+    "name": "Copenhagen",
+    "lng": 12.57,
+    "lat": 55.68
+  },
+  {
+    "name": "Aalborg",
+    "lng": 9.92,
+    "lat": 57.05
+  },
+  {
+    "name": "Esbjerg",
+    "lng": 8.45,
+    "lat": 55.47
+  },
+  {
+    "name": "Aarhus",
+    "lng": 10.2,
+    "lat": 56.16
+  },
+  {
+    "name": "Odense",
+    "lng": 10.39,
+    "lat": 55.4
+  },
+  {
+    "name": "Bodo",
+    "lng": 14.4,
+    "lat": 67.28
+  },
+  {
+    "name": "Mo i Rana",
+    "lng": 14.14,
+    "lat": 66.31
+  },
+  {
+    "name": "Harstad",
+    "lng": 16.54,
+    "lat": 68.8
+  },
+  {
+    "name": "Hamar",
+    "lng": 11.07,
+    "lat": 60.79
+  },
+  {
+    "name": "Drammen",
+    "lng": 10.21,
+    "lat": 59.74
+  },
+  {
+    "name": "Kristiansund",
+    "lng": 7.73,
+    "lat": 63.11
+  },
+  {
+    "name": "Molde",
+    "lng": 7.16,
+    "lat": 62.74
+  },
+  {
+    "name": "Alesund",
+    "lng": 6.15,
+    "lat": 62.47
+  },
+  {
+    "name": "Voss",
+    "lng": 6.41,
+    "lat": 60.63
+  },
+  {
+    "name": "Kongsberg",
+    "lng": 9.65,
+    "lat": 59.67
+  },
+  {
+    "name": "Rjukan",
+    "lng": 8.59,
+    "lat": 59.88
+  },
+  {
+    "name": "Halden",
+    "lng": 11.39,
+    "lat": 59.13
+  },
+  {
+    "name": "Fredrikstad",
+    "lng": 10.93,
+    "lat": 59.22
+  },
+  {
+    "name": "Skien",
+    "lng": 9.61,
+    "lat": 59.21
+  },
+  {
+    "name": "Haugesund",
+    "lng": 5.27,
+    "lat": 59.41
+  },
+  {
+    "name": "Egersund",
+    "lng": 5.99,
+    "lat": 58.45
+  },
+  {
+    "name": "Alta",
+    "lng": 23.27,
+    "lat": 69.97
+  },
+  {
+    "name": "Kirkenes",
+    "lng": 30.05,
+    "lat": 69.73
+  },
+  {
+    "name": "Hammerfest",
+    "lng": 23.68,
+    "lat": 70.66
+  },
+  {
+    "name": "Vadso",
+    "lng": 29.75,
+    "lat": 70.07
+  },
+  {
+    "name": "Mosjoen",
+    "lng": 13.19,
+    "lat": 65.84
+  },
+  {
+    "name": "Steinkjer",
+    "lng": 11.5,
+    "lat": 64.01
+  },
+  {
+    "name": "Levanger",
+    "lng": 11.3,
+    "lat": 63.75
+  },
+  {
+    "name": "Roros",
+    "lng": 11.38,
+    "lat": 62.57
+  },
+  {
+    "name": "Gjovik",
+    "lng": 10.69,
+    "lat": 60.8
+  },
+  {
+    "name": "Notodden",
+    "lng": 9.26,
+    "lat": 59.56
+  },
+  {
+    "name": "Larvik",
+    "lng": 10.03,
+    "lat": 59.05
+  },
+  {
+    "name": "Sandnes",
+    "lng": 5.74,
+    "lat": 58.85
+  },
+  {
+    "name": "Arendal",
+    "lng": 8.77,
+    "lat": 58.46
+  },
+  {
+    "name": "Bardufoss",
+    "lng": 18.54,
+    "lat": 69.06
+  },
+  {
+    "name": "Finnsnes",
+    "lng": 17.98,
+    "lat": 69.23
+  }
+]

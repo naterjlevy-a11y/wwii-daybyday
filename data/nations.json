@@ -1,0 +1,537 @@
+[
+  {
+    "name": "Germany",
+    "status": [
+      {
+        "date": "1939-09-01",
+        "state": "axis",
+        "note": "Invades Poland"
+      }
+    ]
+  },
+  {
+    "name": "Italy",
+    "status": [
+      {
+        "date": "1939-09-01",
+        "state": "neutral",
+        "note": "Non-belligerent"
+      },
+      {
+        "date": "1940-06-10",
+        "state": "axis",
+        "note": "Declares war on France and Britain"
+      }
+    ]
+  },
+  {
+    "name": "USSR",
+    "status": [
+      {
+        "date": "1939-09-01",
+        "state": "neutral",
+        "note": "Bound to Germany by the Molotov-Ribbentrop Pact"
+      },
+      {
+        "date": "1939-09-17",
+        "state": "co-belligerent",
+        "note": "Invades eastern Poland alongside Germany. Never joins the Axis."
+      },
+      {
+        "date": "1941-06-22",
+        "state": "allied",
+        "note": "Invaded by Germany"
+      }
+    ]
+  },
+  {
+    "name": "Poland",
+    "status": [
+      {
+        "date": "1939-09-01",
+        "state": "allied",
+        "note": "Invaded"
+      },
+      {
+        "date": "1939-10-06",
+        "state": "occupied",
+        "note": "Partitioned between Germany and the USSR"
+      }
+    ]
+  },
+  {
+    "name": "United Kingdom",
+    "status": [
+      {
+        "date": "1939-09-03",
+        "state": "allied",
+        "note": "Declares war on Germany"
+      }
+    ]
+  },
+  {
+    "name": "France",
+    "status": [
+      {
+        "date": "1939-09-03",
+        "state": "allied",
+        "note": "Declares war on Germany"
+      },
+      {
+        "date": "1940-06-22",
+        "state": "occupied",
+        "note": "Armistice; the north and west are occupied"
+      }
+    ]
+  },
+  {
+    "name": "Finland",
+    "status": [
+      {
+        "date": "1939-09-01",
+        "state": "neutral",
+        "note": ""
+      },
+      {
+        "date": "1939-11-30",
+        "state": "neutral",
+        "note": "Invaded by the Soviet Union. Never an Allied power."
+      },
+      {
+        "date": "1940-03-13",
+        "state": "neutral",
+        "note": "Cedes territory at the Moscow Peace"
+      },
+      {
+        "date": "1941-06-25",
+        "state": "co-belligerent",
+        "note": "Fights the Soviet Union alongside Germany, but not as an Axis member."
+      }
+    ]
+  },
+  {
+    "name": "Denmark",
+    "status": [
+      {
+        "date": "1940-04-09",
+        "state": "occupied",
+        "note": "Surrenders in a day"
+      }
+    ]
+  },
+  {
+    "name": "Norway",
+    "status": [
+      {
+        "date": "1940-04-09",
+        "state": "allied",
+        "note": "Invaded"
+      },
+      {
+        "date": "1940-06-10",
+        "state": "occupied",
+        "note": "Capitulates"
+      }
+    ]
+  },
+  {
+    "name": "Netherlands",
+    "status": [
+      {
+        "date": "1940-05-10",
+        "state": "allied",
+        "note": "Invaded"
+      },
+      {
+        "date": "1940-05-15",
+        "state": "occupied",
+        "note": "Surrenders after Rotterdam"
+      }
+    ]
+  },
+  {
+    "name": "Belgium",
+    "status": [
+      {
+        "date": "1940-05-10",
+        "state": "allied",
+        "note": "Invaded"
+      },
+      {
+        "date": "1940-05-28",
+        "state": "occupied",
+        "note": "King Leopold capitulates"
+      }
+    ]
+  },
+  {
+    "name": "Luxembourg",
+    "status": [
+      {
+        "date": "1940-05-10",
+        "state": "occupied",
+        "note": "Overrun on the first morning"
+      }
+    ]
+  },
+  {
+    "name": "Romania",
+    "status": [
+      {
+        "date": "1939-09-01",
+        "state": "neutral",
+        "note": ""
+      },
+      {
+        "date": "1940-11-23",
+        "state": "axis",
+        "note": "Joins the Tripartite Pact"
+      }
+    ]
+  },
+  {
+    "name": "Hungary",
+    "status": [
+      {
+        "date": "1939-09-01",
+        "state": "neutral",
+        "note": ""
+      },
+      {
+        "date": "1940-11-20",
+        "state": "axis",
+        "note": "Joins the Tripartite Pact"
+      }
+    ]
+  },
+  {
+    "name": "Bulgaria",
+    "status": [
+      {
+        "date": "1939-09-01",
+        "state": "neutral",
+        "note": ""
+      },
+      {
+        "date": "1941-03-01",
+        "state": "axis",
+        "note": "Joins the Tripartite Pact"
+      }
+    ]
+  },
+  {
+    "name": "Yugoslavia",
+    "status": [
+      {
+        "date": "1941-03-25",
+        "state": "axis",
+        "note": "Signs the Tripartite Pact under pressure"
+      },
+      {
+        "date": "1941-03-27",
+        "state": "allied",
+        "note": "A coup overturns the government"
+      },
+      {
+        "date": "1941-04-17",
+        "state": "occupied",
+        "note": "Capitulates after eleven days"
+      }
+    ]
+  },
+  {
+    "name": "Greece",
+    "status": [
+      {
+        "date": "1940-10-28",
+        "state": "allied",
+        "note": "Invaded by Italy"
+      },
+      {
+        "date": "1941-04-27",
+        "state": "occupied",
+        "note": "Athens falls; Crete follows on 1 June"
+      }
+    ]
+  },
+  {
+    "name": "Albania",
+    "status": [
+      {
+        "date": "1939-09-01",
+        "state": "occupied",
+        "note": "Annexed by Italy in April 1939"
+      }
+    ]
+  },
+  {
+    "name": "Czechoslovakia",
+    "status": [
+      {
+        "date": "1939-09-01",
+        "state": "occupied",
+        "note": "Occupied in March 1939"
+      }
+    ]
+  },
+  {
+    "name": "Estonia",
+    "status": [
+      {
+        "date": "1939-09-01",
+        "state": "neutral",
+        "note": ""
+      },
+      {
+        "date": "1940-06-16",
+        "state": "occupied",
+        "note": "Annexed by the Soviet Union"
+      },
+      {
+        "date": "1941-07-10",
+        "state": "occupied",
+        "note": "Overrun by Germany"
+      }
+    ]
+  },
+  {
+    "name": "Latvia",
+    "status": [
+      {
+        "date": "1939-09-01",
+        "state": "neutral",
+        "note": ""
+      },
+      {
+        "date": "1940-06-16",
+        "state": "occupied",
+        "note": "Annexed by the Soviet Union"
+      },
+      {
+        "date": "1941-07-05",
+        "state": "occupied",
+        "note": "Overrun by Germany"
+      }
+    ]
+  },
+  {
+    "name": "Lithuania",
+    "status": [
+      {
+        "date": "1939-09-01",
+        "state": "neutral",
+        "note": ""
+      },
+      {
+        "date": "1940-06-15",
+        "state": "occupied",
+        "note": "Annexed by the Soviet Union"
+      },
+      {
+        "date": "1941-06-26",
+        "state": "occupied",
+        "note": "Overrun by Germany"
+      }
+    ]
+  },
+  {
+    "name": "Japan",
+    "status": [
+      {
+        "date": "1939-09-01",
+        "state": "neutral",
+        "note": ""
+      },
+      {
+        "date": "1940-09-27",
+        "state": "axis",
+        "note": "Signs the Tripartite Pact"
+      }
+    ]
+  },
+  {
+    "name": "United States",
+    "status": [
+      {
+        "date": "1939-09-01",
+        "state": "neutral",
+        "note": "Neutral"
+      },
+      {
+        "date": "1941-03-11",
+        "state": "neutral",
+        "note": "Lend-Lease: the arsenal of democracy"
+      },
+      {
+        "date": "1941-12-08",
+        "state": "allied",
+        "note": "Declares war the day after Pearl Harbor"
+      }
+    ]
+  },
+  {
+    "name": "Egypt",
+    "status": [
+      {
+        "date": "1939-09-01",
+        "state": "allied",
+        "note": "British base; the desert war is fought over it"
+      }
+    ]
+  },
+  {
+    "name": "Libya",
+    "status": [
+      {
+        "date": "1939-09-01",
+        "state": "neutral",
+        "note": "Italian colony; Italy is not yet a belligerent"
+      },
+      {
+        "date": "1940-06-10",
+        "state": "axis",
+        "note": "Italy enters the war"
+      }
+    ]
+  },
+  {
+    "name": "Spain",
+    "status": [
+      {
+        "date": "1939-09-01",
+        "state": "neutral",
+        "note": "Non-belligerent under Franco"
+      }
+    ]
+  },
+  {
+    "name": "Portugal",
+    "status": [
+      {
+        "date": "1939-09-01",
+        "state": "neutral",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "name": "Sweden",
+    "status": [
+      {
+        "date": "1939-09-01",
+        "state": "neutral",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "name": "Switzerland",
+    "status": [
+      {
+        "date": "1939-09-01",
+        "state": "neutral",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "name": "Turkey",
+    "status": [
+      {
+        "date": "1939-09-01",
+        "state": "neutral",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "name": "Ireland",
+    "status": [
+      {
+        "date": "1939-09-01",
+        "state": "neutral",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "name": "Canada",
+    "status": [
+      {
+        "date": "1939-09-10",
+        "state": "allied",
+        "note": "Declares war independently, a week after Britain"
+      }
+    ]
+  },
+  {
+    "name": "Australia",
+    "status": [
+      {
+        "date": "1939-09-03",
+        "state": "allied",
+        "note": "Declares war"
+      }
+    ]
+  },
+  {
+    "name": "New Zealand",
+    "status": [
+      {
+        "date": "1939-09-03",
+        "state": "allied",
+        "note": "Declares war"
+      }
+    ]
+  },
+  {
+    "name": "Union of South Africa",
+    "status": [
+      {
+        "date": "1939-09-06",
+        "state": "allied",
+        "note": "Declares war after a parliamentary revolt"
+      }
+    ]
+  },
+  {
+    "name": "British Raj",
+    "status": [
+      {
+        "date": "1939-09-03",
+        "state": "allied",
+        "note": "Declared at war by the Viceroy, without consulting its legislatures"
+      }
+    ]
+  },
+  {
+    "name": "China",
+    "status": [
+      {
+        "date": "1939-09-01",
+        "state": "allied",
+        "note": "At war with Japan since 1937"
+      }
+    ]
+  },
+  {
+    "name": "Iraq",
+    "status": [
+      {
+        "date": "1939-09-01",
+        "state": "neutral",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "name": "Palestine",
+    "status": [
+      {
+        "date": "1939-09-01",
+        "state": "allied",
+        "note": "British mandate"
+      }
+    ]
+  }
+]

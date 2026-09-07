@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Staged from node_modules by scripts/copy-maplibre-worker.mjs on dev/build.
+/public/maplibre/
+
+# Page OCR kept for offline re-cropping of newspaper passages; not served.
+# Regenerate with: npm run fetch-frontpages <theater> --force
+# Page OCR is kept IN the repo deliberately. It is 2.3 MB, nothing at runtime
+# reads it, and it is technically regenerable — but regenerating means hours of
+# requests against an archive that rate-limits to a hard stop. Cheaper to carry.

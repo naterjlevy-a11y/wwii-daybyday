@@ -1,0 +1,163 @@
+{
+  "1941-06-22": {
+    "headline": "Barbarossa",
+    "summary": "Three million men, 3,500 tanks and 2,700 aircraft attack along a front of 1,600 km — the largest invasion in history. The Soviet air force loses around 1,200 aircraft on the first day, most of them on the ground.",
+    "events": [
+      {
+        "name": "Brest",
+        "lng": 23.66,
+        "lat": 51.66,
+        "kind": "siege",
+        "text": "The fortress garrison fights on for a week behind the front."
+      },
+      {
+        "name": "Minsk",
+        "lng": 27.56,
+        "lat": 53.9,
+        "kind": "invasion",
+        "text": "Two Panzer groups drive for Minsk on the first morning."
+      }
+    ],
+    "press": "Russia"
+  },
+  "1941-06-28": {
+    "headline": "Minsk",
+    "summary": "The first great encirclement closes: around 300,000 men taken. The pattern of the summer is set — armour closes the pockets, infantry marches to catch up, and the Red Army loses armies faster than it can count them.",
+    "events": [
+      {
+        "name": "Minsk",
+        "lng": 27.56,
+        "lat": 53.9,
+        "kind": "capture",
+        "text": "Taken on the sixth day, 350 km from the frontier."
+      }
+    ],
+    "press": "Russia"
+  },
+  "1941-07-03": {
+    "headline": "Stalin speaks",
+    "summary": "After eleven days of silence Stalin broadcasts, addressing the country as brothers and sisters, and orders a scorched earth. It is the first time the war is called patriotic rather than ideological.",
+    "events": [
+      {
+        "name": "Moscow",
+        "lng": 37.62,
+        "lat": 55.75,
+        "kind": "political",
+        "text": "Everything of use is to be destroyed or moved east. 1,500 factories are moved beyond the Urals."
+      }
+    ],
+    "press": "Stalin"
+  },
+  "1941-08-08": {
+    "headline": "Smolensk",
+    "summary": "The pocket at Smolensk yields another 300,000 prisoners, but takes two months instead of two weeks. It is the first sign the timetable is slipping.",
+    "events": [
+      {
+        "name": "Smolensk",
+        "lng": 32.05,
+        "lat": 54.78,
+        "kind": "capture",
+        "text": "The road to Moscow is open. Hitler turns south instead."
+      }
+    ],
+    "press": "Russia"
+  },
+  "1941-09-08": {
+    "headline": "Leningrad is cut off",
+    "summary": "The last land route closes. The siege lasts 872 days and kills something like a million civilians, most of them in the first winter, most of them of starvation.",
+    "events": [
+      {
+        "name": "Leningrad",
+        "lng": 30.34,
+        "lat": 59.93,
+        "kind": "siege",
+        "text": "No assault: the city is to be starved out. Rations fall to 125 grams of bread a day."
+      }
+    ],
+    "press": "Leningrad"
+  },
+  "1941-09-26": {
+    "headline": "Kiev",
+    "summary": "The largest encirclement ever achieved by any army: around 600,000 prisoners. It is a total victory that costs the Germans the campaigning weather they needed for Moscow.",
+    "events": [
+      {
+        "name": "Kiev",
+        "lng": 30.52,
+        "lat": 50.45,
+        "kind": "capture",
+        "text": "Four Soviet armies destroyed. Ten days later the rains begin."
+      }
+    ],
+    "press": "Kiev"
+  },
+  "1941-10-08": {
+    "headline": "The mud",
+    "summary": "The autumn rasputitsa turns every unpaved road in western Russia to liquid mud. Wheeled transport stops entirely. The advance on Moscow waits for the ground to freeze — and then finds out what a Russian winter is.",
+    "events": [
+      {
+        "name": "Vyazma",
+        "lng": 34.3,
+        "lat": 55.21,
+        "kind": "battle",
+        "text": "Another 600,000 taken at Vyazma and Bryansk, into ground no lorry can cross."
+      }
+    ],
+    "press": "Russia"
+  },
+  "1941-10-20": {
+    "headline": "Moscow under siege",
+    "summary": "A state of siege is declared. The government, the diplomatic corps and Lenin's body leave for Kuibyshev. Stalin stays, and the fact that he stays is worth divisions.",
+    "events": [
+      {
+        "name": "Moscow",
+        "lng": 37.62,
+        "lat": 55.75,
+        "kind": "political",
+        "text": "Panic and looting for two days, then curfew and summary justice."
+      }
+    ],
+    "press": "Moscow"
+  },
+  "1941-11-07": {
+    "headline": "The parade",
+    "summary": "Troops parade through Red Square on the anniversary of the revolution and march directly from it to the front, thirty kilometres away.",
+    "events": [
+      {
+        "name": "Moscow",
+        "lng": 37.62,
+        "lat": 55.75,
+        "kind": "political",
+        "text": "Held under falling snow that grounded the Luftwaffe."
+      }
+    ],
+    "press": "Moscow"
+  },
+  "1941-11-20": {
+    "headline": "Rostov",
+    "summary": "Rostov-on-Don is taken. Nine days later the Soviets take it back — the first German retreat of the war, and the first order Hitler gives to hold ground at any cost.",
+    "events": [
+      {
+        "name": "Rostov",
+        "lng": 39.72,
+        "lat": 47.24,
+        "kind": "capture",
+        "text": "Taken on 21 November, lost again on 29 November."
+      }
+    ],
+    "press": "Russia"
+  },
+  "1941-12-05": {
+    "headline": "The high-water mark",
+    "summary": "Reconnaissance troops see the spires of Moscow through field glasses at thirty degrees below zero, in summer uniforms. That night the temperature drops further, and the next morning a hundred fresh Siberian divisions attack.",
+    "events": [
+      {
+        "name": "Moscow",
+        "lng": 37.62,
+        "lat": 55.75,
+        "kind": "battle",
+        "text": "The closest German troops get. The counteroffensive opens on 6 December."
+      }
+    ],
+    "press": "Moscow"
+  }
+}

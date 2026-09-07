@@ -1,0 +1,326 @@
+[
+  {
+    "name": "Helsinki",
+    "pl": "Helsinki",
+    "lng": 24.94,
+    "lat": 60.17
+  },
+  {
+    "name": "Viipuri",
+    "pl": "Viipuri",
+    "lng": 28.75,
+    "lat": 60.71
+  },
+  {
+    "name": "Turku",
+    "pl": "Turku",
+    "lng": 22.27,
+    "lat": 60.45
+  },
+  {
+    "name": "Tampere",
+    "pl": "Tampere",
+    "lng": 23.76,
+    "lat": 61.5
+  },
+  {
+    "name": "Hanko",
+    "pl": "Hanko",
+    "lng": 22.97,
+    "lat": 59.83
+  },
+  {
+    "name": "Kotka",
+    "pl": "Kotka",
+    "lng": 26.94,
+    "lat": 60.47
+  },
+  {
+    "name": "Lahti",
+    "pl": "Lahti",
+    "lng": 25.66,
+    "lat": 60.98
+  },
+  {
+    "name": "Mikkeli",
+    "pl": "Mikkeli",
+    "lng": 27.27,
+    "lat": 61.69
+  },
+  {
+    "name": "Kuopio",
+    "pl": "Kuopio",
+    "lng": 27.68,
+    "lat": 62.89
+  },
+  {
+    "name": "Joensuu",
+    "pl": "Joensuu",
+    "lng": 29.76,
+    "lat": 62.6
+  },
+  {
+    "name": "Oulu",
+    "pl": "Oulu",
+    "lng": 25.47,
+    "lat": 65.01
+  },
+  {
+    "name": "Rovaniemi",
+    "pl": "Rovaniemi",
+    "lng": 25.72,
+    "lat": 66.5
+  },
+  {
+    "name": "Tornio",
+    "pl": "Tornio",
+    "lng": 24.14,
+    "lat": 65.85
+  },
+  {
+    "name": "Vaasa",
+    "pl": "Vaasa",
+    "lng": 21.62,
+    "lat": 63.1
+  },
+  {
+    "name": "Pori",
+    "pl": "Pori",
+    "lng": 21.8,
+    "lat": 61.48
+  },
+  {
+    "name": "Kemi",
+    "pl": "Kemi",
+    "lng": 24.56,
+    "lat": 65.74
+  },
+  {
+    "name": "Kajaani",
+    "pl": "Kajaani",
+    "lng": 27.73,
+    "lat": 64.22
+  },
+  {
+    "name": "Sortavala",
+    "pl": "Sortavala",
+    "lng": 30.69,
+    "lat": 61.7
+  },
+  {
+    "name": "Kakisalmi",
+    "pl": "Käkisalmi",
+    "lng": 30.13,
+    "lat": 61.03
+  },
+  {
+    "name": "Terijoki",
+    "pl": "Terijoki",
+    "lng": 30.22,
+    "lat": 60.2
+  },
+  {
+    "name": "Summa",
+    "pl": "Summa",
+    "lng": 28.98,
+    "lat": 60.55
+  },
+  {
+    "name": "Taipale",
+    "pl": "Taipale",
+    "lng": 30.55,
+    "lat": 60.65
+  },
+  {
+    "name": "Koivisto",
+    "pl": "Koivisto",
+    "lng": 28.68,
+    "lat": 60.36
+  },
+  {
+    "name": "Suomussalmi",
+    "pl": "Suomussalmi",
+    "lng": 28.9,
+    "lat": 64.88
+  },
+  {
+    "name": "Raate",
+    "pl": "Raate",
+    "lng": 29.85,
+    "lat": 64.87
+  },
+  {
+    "name": "Kuhmo",
+    "pl": "Kuhmo",
+    "lng": 29.52,
+    "lat": 64.13
+  },
+  {
+    "name": "Tolvajarvi",
+    "pl": "Tolvajärvi",
+    "lng": 31.4,
+    "lat": 62.1
+  },
+  {
+    "name": "Kollaa",
+    "pl": "Kollaa",
+    "lng": 32.0,
+    "lat": 61.9
+  },
+  {
+    "name": "Salla",
+    "pl": "Salla",
+    "lng": 28.67,
+    "lat": 66.83
+  },
+  {
+    "name": "Petsamo",
+    "pl": "Petsamo",
+    "lng": 31.2,
+    "lat": 69.55
+  },
+  {
+    "name": "Suojarvi",
+    "pl": "Suojärvi",
+    "lng": 32.35,
+    "lat": 62.08
+  },
+  {
+    "name": "Ilomantsi",
+    "pl": "Ilomantsi",
+    "lng": 30.93,
+    "lat": 62.67
+  },
+  {
+    "name": "Lieksa",
+    "pl": "Lieksa",
+    "lng": 30.02,
+    "lat": 63.32
+  },
+  {
+    "name": "Nurmes",
+    "pl": "Nurmes",
+    "lng": 29.14,
+    "lat": 63.54
+  },
+  {
+    "name": "Savonlinna",
+    "pl": "Savonlinna",
+    "lng": 28.88,
+    "lat": 61.87
+  },
+  {
+    "name": "Lappeenranta",
+    "pl": "Lappeenranta",
+    "lng": 28.19,
+    "lat": 61.06
+  },
+  {
+    "name": "Hamina",
+    "pl": "Hamina",
+    "lng": 27.2,
+    "lat": 60.57
+  },
+  {
+    "name": "Imatra",
+    "pl": "Imatra",
+    "lng": 28.77,
+    "lat": 61.19
+  },
+  {
+    "name": "Kuolajarvi",
+    "pl": "Kuolajärvi",
+    "lng": 29.0,
+    "lat": 66.9
+  },
+  {
+    "name": "Kemijarvi",
+    "pl": "Kemijärvi",
+    "lng": 27.43,
+    "lat": 66.71
+  },
+  {
+    "name": "Muonio",
+    "pl": "Muonio",
+    "lng": 23.68,
+    "lat": 67.96
+  },
+  {
+    "name": "Enontekio",
+    "pl": "Enontekiö",
+    "lng": 23.63,
+    "lat": 68.38
+  },
+  {
+    "name": "Ivalo",
+    "pl": "Ivalo",
+    "lng": 27.54,
+    "lat": 68.66
+  },
+  {
+    "name": "Inari",
+    "pl": "Inari",
+    "lng": 27.03,
+    "lat": 68.91
+  },
+  {
+    "name": "Sodankyla",
+    "pl": "Sodankylä",
+    "lng": 26.59,
+    "lat": 67.42
+  },
+  {
+    "name": "Kuusamo",
+    "pl": "Kuusamo",
+    "lng": 29.19,
+    "lat": 65.96
+  },
+  {
+    "name": "Pudasjarvi",
+    "pl": "Pudasjärvi",
+    "lng": 26.99,
+    "lat": 65.36
+  },
+  {
+    "name": "Raahe",
+    "pl": "Raahe",
+    "lng": 24.48,
+    "lat": 64.69
+  },
+  {
+    "name": "Kokkola",
+    "pl": "Kokkola",
+    "lng": 23.13,
+    "lat": 63.84
+  },
+  {
+    "name": "Seinajoki",
+    "pl": "Seinäjoki",
+    "lng": 22.84,
+    "lat": 62.79
+  },
+  {
+    "name": "Jyvaskyla",
+    "pl": "Jyväskylä",
+    "lng": 25.75,
+    "lat": 62.24
+  },
+  {
+    "name": "Hameenlinna",
+    "pl": "Hämeenlinna",
+    "lng": 24.46,
+    "lat": 60.99
+  },
+  {
+    "name": "Porvoo",
+    "pl": "Porvoo",
+    "lng": 25.66,
+    "lat": 60.39
+  },
+  {
+    "name": "Rauma",
+    "pl": "Rauma",
+    "lng": 21.51,
+    "lat": 61.13
+  }
+]

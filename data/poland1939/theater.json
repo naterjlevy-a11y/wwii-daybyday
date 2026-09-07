@@ -1,0 +1,20 @@
+{
+  "id": "poland1939",
+  "name": "The Polish Campaign",
+  "startDate": "1939-09-01",
+  "endDate": "1939-10-06",
+  "hexResolution": 5,
+  "camera": {
+    "center": [
+      21.8,
+      52.4
+    ],
+    "zoom": 5.25
+  },
+  "note": "Control polygons are APPROXIMATE reconstructions authored for this scaffold, not surveyed front lines. Refine against Stanford 'Building the New Order' shapefiles.",
+  "sides": {
+    "defender": "Polish",
+    "axis": "German",
+    "soviet": "Soviet"
+  }
+}

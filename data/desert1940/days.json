@@ -1,0 +1,128 @@
+{
+  "1940-09-13": {
+    "headline": "Italy invades Egypt",
+    "summary": "Marshal Graziani, ordered forward by Mussolini against his own judgement, advances 100 km into Egypt, halts at Sidi Barrani and builds a chain of fortified camps too far apart to support one another.",
+    "events": [
+      {
+        "name": "Sidi Barrani",
+        "lng": 25.93,
+        "lat": 31.61,
+        "kind": "invasion",
+        "text": "The Italian advance stops here and digs in."
+      }
+    ],
+    "press": "Egypt"
+  },
+  "1940-12-09": {
+    "headline": "Operation Compass",
+    "summary": "A five-day raid by two divisions against ten. It goes so well it is not stopped for two months, and becomes one of the most lopsided victories in British military history.",
+    "events": [
+      {
+        "name": "Sidi Barrani",
+        "lng": 25.93,
+        "lat": 31.61,
+        "kind": "battle",
+        "text": "The fortified camps are taken one by one from behind."
+      }
+    ],
+    "press": "Egypt"
+  },
+  "1941-01-22": {
+    "headline": "Tobruk",
+    "summary": "The Australian 6th Division takes Tobruk and its harbour — the only real port between Alexandria and Benghazi, and the thing the whole desert war will turn on.",
+    "events": [
+      {
+        "name": "Tobruk",
+        "lng": 23.96,
+        "lat": 32.07,
+        "kind": "capture",
+        "text": "The harbour that decides who can supply an army this far forward."
+      }
+    ],
+    "press": "Tobruk"
+  },
+  "1941-02-07": {
+    "headline": "Beda Fomm",
+    "summary": "A flying column cuts the coast road ahead of the retreating Italian army and holds it. The Tenth Army surrenders: 130,000 prisoners, 400 tanks, 1,300 guns, for fewer than 500 Commonwealth dead.",
+    "events": [
+      {
+        "name": "Beda Fomm",
+        "lng": 20.2,
+        "lat": 31.6,
+        "kind": "battle",
+        "text": "'Fox killed in the open' — the signal sent to Cairo."
+      }
+    ],
+    "press": "Africa"
+  },
+  "1941-02-12": {
+    "headline": "Rommel lands",
+    "summary": "With Libya nearly lost, Germany sends a blocking force under an unknown Panzer general. Half the Commonwealth army has just been shipped to Greece, where it will also be beaten.",
+    "events": [
+      {
+        "name": "Tripoli",
+        "lng": 13.19,
+        "lat": 32.89,
+        "kind": "political",
+        "text": "The Afrika Korps arrives to stop a rout and starts an offensive instead."
+      }
+    ],
+    "press": "Africa"
+  },
+  "1941-04-11": {
+    "headline": "Back the other way",
+    "summary": "Rommel attacks against orders and retakes everything in a fortnight — except Tobruk, which is surrounded and holds. The siege lasts 241 days.",
+    "events": [
+      {
+        "name": "Tobruk",
+        "lng": 23.96,
+        "lat": 32.07,
+        "kind": "siege",
+        "text": "Surrounded on 11 April and supplied by sea for eight months."
+      }
+    ],
+    "press": "Tobruk"
+  },
+  "1941-06-17": {
+    "headline": "Battleaxe fails",
+    "summary": "A British attempt to relieve Tobruk is stopped by dug-in 88 mm guns. Wavell is sacked. The line stands on the Egyptian frontier for five months.",
+    "events": [
+      {
+        "name": "Halfaya Pass",
+        "lng": 25.19,
+        "lat": 31.53,
+        "kind": "battle",
+        "text": "'Hellfire Pass' to the men who attacked it."
+      }
+    ],
+    "press": "Egypt"
+  },
+  "1941-11-27": {
+    "headline": "Crusader",
+    "summary": "The new Eighth Army fights a confused armoured battle for a fortnight and gets through. Tobruk is relieved after 241 days under siege.",
+    "events": [
+      {
+        "name": "Tobruk",
+        "lng": 23.96,
+        "lat": 32.07,
+        "kind": "battle",
+        "text": "The siege is lifted."
+      }
+    ],
+    "press": "Tobruk"
+  },
+  "1941-12-31": {
+    "headline": "Back where it started",
+    "summary": "Rommel withdraws to El Agheila, the position he began from in March. The front has travelled roughly 1,500 km in each direction and ends the year exactly where it opened it.",
+    "events": [
+      {
+        "name": "El Agheila",
+        "lng": 19.14,
+        "lat": 30.25,
+        "kind": "political",
+        "text": "A full round trip in fifteen months."
+      }
+    ],
+    "press": "Africa"
+  }
+}

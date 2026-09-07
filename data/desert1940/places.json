@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Tripoli",
+    "lng": 13.19,
+    "lat": 32.89
+  },
+  {
+    "name": "Misrata",
+    "lng": 15.09,
+    "lat": 32.38
+  },
+  {
+    "name": "Sirte",
+    "lng": 16.59,
+    "lat": 31.2
+  },
+  {
+    "name": "El Agheila",
+    "lng": 19.14,
+    "lat": 30.25
+  },
+  {
+    "name": "Beda Fomm",
+    "lng": 20.2,
+    "lat": 31.6
+  },
+  {
+    "name": "Benghazi",
+    "lng": 20.07,
+    "lat": 32.12
+  },
+  {
+    "name": "Barce",
+    "lng": 20.87,
+    "lat": 32.49
+  },
+  {
+    "name": "Derna",
+    "lng": 22.64,
+    "lat": 32.76
+  },
+  {
+    "name": "Tobruk",
+    "lng": 23.96,
+    "lat": 32.07
+  },
+  {
+    "name": "Bardia",
+    "lng": 25.09,
+    "lat": 31.76
+  },
+  {
+    "name": "Halfaya Pass",
+    "lng": 25.19,
+    "lat": 31.53
+  },
+  {
+    "name": "Sollum",
+    "lng": 25.15,
+    "lat": 31.56
+  },
+  {
+    "name": "Sidi Barrani",
+    "lng": 25.93,
+    "lat": 31.61
+  },
+  {
+    "name": "Mersa Matruh",
+    "lng": 27.24,
+    "lat": 31.35
+  },
+  {
+    "name": "El Alamein",
+    "lng": 28.95,
+    "lat": 30.83
+  },
+  {
+    "name": "Alexandria",
+    "lng": 29.92,
+    "lat": 31.2
+  },
+  {
+    "name": "Cairo",
+    "lng": 31.24,
+    "lat": 30.04
+  },
+  {
+    "name": "Suez",
+    "lng": 32.53,
+    "lat": 29.97
+  },
+  {
+    "name": "Port Said",
+    "lng": 32.3,
+    "lat": 31.26
+  },
+  {
+    "name": "Ismailia",
+    "lng": 32.27,
+    "lat": 30.59
+  },
+  {
+    "name": "Siwa",
+    "lng": 25.52,
+    "lat": 29.2
+  },
+  {
+    "name": "Jarabub",
+    "lng": 24.53,
+    "lat": 29.75
+  },
+  {
+    "name": "Giarabub",
+    "lng": 24.53,
+    "lat": 29.75
+  },
+  {
+    "name": "Mechili",
+    "lng": 23.17,
+    "lat": 32.1
+  },
+  {
+    "name": "Gazala",
+    "lng": 23.5,
+    "lat": 32.2
+  },
+  {
+    "name": "Bir Hakeim",
+    "lng": 23.47,
+    "lat": 31.6
+  },
+  {
+    "name": "Sidi Rezegh",
+    "lng": 23.9,
+    "lat": 31.85
+  },
+  {
+    "name": "Ajdabiya",
+    "lng": 20.22,
+    "lat": 30.76
+  },
+  {
+    "name": "Msus",
+    "lng": 21.44,
+    "lat": 31.62
+  },
+  {
+    "name": "Tmimi",
+    "lng": 22.9,
+    "lat": 32.55
+  },
+  {
+    "name": "Fort Capuzzo",
+    "lng": 25.05,
+    "lat": 31.65
+  },
+  {
+    "name": "Buq Buq",
+    "lng": 25.5,
+    "lat": 31.55
+  },
+  {
+    "name": "El Adem",
+    "lng": 23.93,
+    "lat": 31.85
+  },
+  {
+    "name": "Sidi Omar",
+    "lng": 25.2,
+    "lat": 31.6
+  },
+  {
+    "name": "Marsa Brega",
+    "lng": 19.58,
+    "lat": 30.42
+  }
+]

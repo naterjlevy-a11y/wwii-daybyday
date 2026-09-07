@@ -1,0 +1,19 @@
+{
+  "id": "barbarossa1941",
+  "name": "Barbarossa",
+  "startDate": "1941-06-22",
+  "endDate": "1941-12-05",
+  "hexResolution": 5,
+  "camera": {
+    "center": [
+      32.0,
+      53.0
+    ],
+    "zoom": 4.0
+  },
+  "sides": {
+    "defender": "Soviet",
+    "axis": "Axis"
+  },
+  "note": "Approximate reconstruction, and the coarsest in this project: a 1,600 km front reconstructed from nine dated lines. The theater is cut off at 45E, so it shows the ground that changed hands, not the whole Soviet Union. Ends at the high-water mark on 5 December, the day before the counteroffensive."
+}

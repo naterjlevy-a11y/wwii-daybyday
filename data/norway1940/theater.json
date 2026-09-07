@@ -1,0 +1,19 @@
+{
+  "id": "norway1940",
+  "name": "Norway and Denmark",
+  "startDate": "1940-04-09",
+  "endDate": "1940-06-10",
+  "hexResolution": 5,
+  "camera": {
+    "center": [
+      13.0,
+      63.0
+    ],
+    "zoom": 4.2
+  },
+  "sides": {
+    "defender": "Allied",
+    "axis": "German"
+  },
+  "note": "Approximate reconstruction. Weserubung was a coastal landing, not a moving front: German control spreads from the ports inland and up the coast, and the Allied lodgement at Narvik is taken and then given up when France collapses."
+}
