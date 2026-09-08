@@ -333,3 +333,25 @@ no source ever finishes parsing, and the map renders black **with no error
 raised**. `scripts/copy-maplibre-worker.mjs` stages the worker into
 `public/maplibre/` (it runs ahead of `dev` and `build`) and `WarMap.tsx` points
 MapLibre at it with `setWorkerUrl`. Don't remove either half.
+
+## Running it
+
+```bash
+npm install
+npm run dev
+```
+
+Nothing needs configuring. The newspaper data is committed and the map runs in
+the browser. The one optional setting is `EUROPEANA_KEY`, which lifts the rate
+limit on the European archive sidebar; without it the app falls back to
+Europeana's shared demo key. Copy `.env.example` to `.env.local` if you want to
+set one.
+
+## Deploying
+
+It is a stock Next.js app, so a host that runs Node needs no configuration from
+you. On Vercel: import the repository, accept the detected framework, and add
+`EUROPEANA_KEY` under Settings → Environment Variables if you have one.
+
+It cannot be hosted on GitHub Pages. `/api/archives` queries Europeana at
+request time, and a static export has nowhere to run it.
